@@ -38,7 +38,7 @@ in different places: at University of Illinois at Urbana-Champaign
 (working in the team of [Franck
 Cappello](http://www.mcs.anl.gov/person/franck-cappello)); at Ecole
 Polytechnique Federale de Lausanne (working in the team of [André
-Schiper](https://people.epfl.ch/andre.schiper)), at Inria (working in
+Schiper](https://people.epfl.ch/andre.schiper)); at Inria (working in
 the team of [Emmanuel
 Jeannot](http://www.labri.fr/perso/ejeannot/)). [Christine
 Morin](http://people.rennes.inria.fr/Christine.Morin/) was my PhD advisor.
