@@ -13,13 +13,18 @@ My work focuses on algorithms for distributed and parallel systems with a specia
 ## Publications
 
 Please visit my academic profile on
-[DBLP](http://dblp.uni-trier.de/pers/hd/r/Ropars:Thomas) and [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=-APiwwkAAAAJ) 
+[DBLP](http://dblp.uni-trier.de/pers/hd/r/Ropars:Thomas) and [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=-APiwwkAAAAJ).
 
 ## Open positions
 
-Below a list of open positions:
+Below is a list of open positions in the context of High Performance
+Data Analytics:
 
 + [PhD Position]({{ site.url }}/downloads/pdf/phd_dist_systems.pdf)
++ Engineer position (or postdoc): [french]({{ site.url
+}}/downloads/pdf/Ingenieur_systemes_dist_lig.pdf), [english]({{ site.url
+}}/downloads/pdf/Engineer_dist_systems_lig.pdf) 
+
 
 ## CV
 
@@ -35,7 +40,7 @@ Cappello](http://www.mcs.anl.gov/person/franck-cappello)); at Ecole
 Polytechnique Federale de Lausanne (working in the team of [André
 Schiper](https://people.epfl.ch/andre.schiper)), at Inria (working in
 the team of [Emmanuel
-Jeannot](http://www.labri.fr/perso/ejeannot/). [Christine
+Jeannot](http://www.labri.fr/perso/ejeannot/)). [Christine
 Morin](http://people.rennes.inria.fr/Christine.Morin/) was my PhD advisor.
 
 
