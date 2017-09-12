@@ -19,7 +19,7 @@ Please visit my academic profile on
 
 Below a list of open positions:
 
-+ [PhD Position]({{ site.url }}/download/pdf/phd_dist_systems.pdf)
++ [PhD Position]({{ site.url }}/downloads/pdf/phd_dist_systems.pdf)
 
 ## CV
 
