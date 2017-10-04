@@ -12,7 +12,9 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
+  
   <body>
+
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -35,8 +37,30 @@
           {% endif %} -->
 
           
-          <h3>Associate Professor in Computer Science at Univ. Grenoble Alpes</h3>
+          <h4>Associate Professor<br>
+            Univ. Grenoble Alpes</h4>
+
+
+          <nav>
+            <ul>
+              {% assign navigation_pages = site.pages | sort: 'navigation_weight' %}
+              {% for page in navigation_pages %}
+
+              {% if page.title %}
+              {% if page.navigation_weight%}
+
+              <li><a class="page-link" href="{{ page.url | prepend:site.baseurl }}">{{ page.title }}</a></li>
+              
+              {% endif %}
+              {% endif %}
+              
+              {% endfor %}
+            </ul>
+          </nav>
+          
       </header>
+
+
       <section>
 
       {{ content }}

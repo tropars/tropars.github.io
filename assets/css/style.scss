@@ -2,3 +2,34 @@
 ---
 
 @import "{{ site.theme }}";
+
+header ul {
+    list-style-type: none;
+    display: block;
+    margin-top: 60px;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+header li{
+    display: block;
+    float: none;
+    border: none;
+    width: 200px;
+}
+
+header ul a {
+    line-height: 1;
+    font-size: 15px;
+    color: #676767;
+    display: block;
+    text-align: left;
+    padding-top: 6px;
+    height: 34px;
+}
+
+
+header ul li + li + li{
+    width: 200px;
+}
