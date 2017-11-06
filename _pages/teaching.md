@@ -15,6 +15,7 @@ Please find bellow some of the material I use during my lectures.
 - Master 1 (MOSIG)
 
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
+  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
 
 
 ### Distributed Systems for Data Processing
