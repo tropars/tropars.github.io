@@ -23,6 +23,13 @@ Please find bellow some of the material I use during my lectures.
   - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf)
 
 
+### Convex and Distributed Optimization
+
+- 2017-2018
+- Master 2
+
+  - [Introduction to Spark]({{ site.url }}/downloads/lectures/CDO/spark_introduction.pdf)
+
 
 
 ### Distributed Systems for Data Processing
@@ -32,3 +39,5 @@ Please find bellow some of the material I use during my lectures.
 - In French
 
   - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2017.pdf)
+
+
