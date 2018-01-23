@@ -12,7 +12,7 @@ Please find bellow some of the material I use during my lectures.
 ### Principles of Operating Systems and Concurrent Programming
 
 - 2017-2018
-- Master 1 (MOSIG)
+- Master 1
 
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
   - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
@@ -41,3 +41,12 @@ Please find bellow some of the material I use during my lectures.
   - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2017.pdf)
 
 
+### DevOps
+
+- 2017-2018
+- Master 1
+- In French
+
+    - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf)
+    - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf)
+    - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
