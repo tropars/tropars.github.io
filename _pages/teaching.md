@@ -51,3 +51,4 @@ Please find bellow some of the material I use during my lectures.
     - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf)
     - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
     - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
+    - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf)
