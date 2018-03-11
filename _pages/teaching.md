@@ -8,6 +8,12 @@ navigation_weight: 3
 
 Please find bellow some of the material I use during my lectures.
 
+- [Principles of Operating Systems and Concurrent Programming](#principles-of-operating-systems-and-concurrent-programming)
+- [Convex and Distributed Optimization](#convex-and-distributed-optimization)
+- [Distributed Systems for Data
+  Processing](#distributed-systems-for-data-processing)
+- [DevOps](#devops)
+- [Parallel Algorithms and Programming](#parallel-algorithms-and-programming)
 
 ### Principles of Operating Systems and Concurrent Programming
 
@@ -52,3 +58,10 @@ Please find bellow some of the material I use during my lectures.
     - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
     - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
     - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf)
+
+### Parallel Algorithms and Programming
+
+- 2017-2018
+- Master 1
+
+    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf)
