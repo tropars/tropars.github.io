@@ -61,6 +61,11 @@ Please find bellow some of the material I use during my lectures.
       }}/downloads/lectures/DevOps/devops_5_junit.pdf)
     - [Les conteneurs]({{ site.url
     }}/downloads/lectures/DevOps/devops_6_containers.pdf)
+    - [Couverture de code]({{ site.url
+    }}/downloads/lectures/DevOps/devops_7_couverture.pdf)
+    - [Les forges]({{ site.url
+    }}/downloads/lectures/DevOps/devops_8_forge.pdf)
+
 
 ### Parallel Algorithms and Programming
 
