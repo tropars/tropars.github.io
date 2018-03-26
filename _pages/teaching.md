@@ -69,6 +69,8 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/DevOps/devops_9_version_numbers.pdf)
     - [Maven]({{ site.url
     }}/downloads/lectures/DevOps/devops_10_maven.pdf)
+    - [Intégration continue]({{ site.url
+    }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf)
 
 
 ### Parallel Algorithms and Programming
