@@ -79,3 +79,4 @@ Please find bellow some of the material I use during my lectures.
 - Master 1
 
     - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf)
+    - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf)
