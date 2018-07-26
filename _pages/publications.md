@@ -12,8 +12,8 @@ For a complete list of my publications, please visit my academic profile on
 
 ### Recent publications
 
-- [SPAA'18:]({{ site.url
-}}/downloads/pdf/publications/spaa2018-FKR-WF_ext_hashing.pdf)
-P. Fatourou, N. D. Kallimanis, and T. Ropars. **An
+- SPAA'18: P. Fatourou, N. D. Kallimanis, and T. Ropars. **An
 Efficient Wait-free Resizable Hash Table**. *30th Symposium on
-Parallelism in Algorithms and Architectures*, 2018.
+Parallelism in Algorithms and Architectures*, 2018. [pdf]({{ site.url
+}}/downloads/pdf/publications/spaa2018-FKR-WF_ext_hashing.pdf),
+[slides]({{ site.url}}/downloads/pdf/publications/spaa2018-slides.pdf).

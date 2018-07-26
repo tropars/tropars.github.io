@@ -8,7 +8,8 @@ navigation_weight: 5
 ## Open positions
 
 
-No open position at this moment.
+Please do not hesitate to contact me if you are interested in doing a
+PhD or a Postdoc on topics related to my research interests.
 
 [comment]: # Below is a list of open positions in the context of High Performance
 [comment]: # Data Analytics:
