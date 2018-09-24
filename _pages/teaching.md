@@ -13,38 +13,40 @@ Please find bellow some of the material I use during my lectures.
 - [Distributed Systems for Data
   Processing](#distributed-systems-for-data-processing)
 - [DevOps](#devops)
-- [Parallel Algorithms and Programming](#parallel-algorithms-and-programming)
+- [Parallel Algorithms and
+  Programming](#parallel-algorithms-and-programming)
+- [Material from the previous years](#old-material)
 
 ### Principles of Operating Systems and Concurrent Programming
 
-- 2017-2018
+- 2018-2019
 - Master 1
 
-  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
-  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
-  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
-  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
-  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_management_HDDs_SSDs.pdf)
-  - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf)
-  - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf)
+  <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
+  <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
+  <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
+  <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
+  <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_management_HDDs_SSDs.pdf) -->
+  <!-- - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
+  <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
 
 ### Convex and Distributed Optimization
 
-- 2017-2018
+- 2018-2019
 - Master 2
 
-  - [Introduction to Spark]({{ site.url }}/downloads/lectures/CDO/spark_introduction.pdf)
+  <!-- - [Introduction to Spark]({{ site.url }}/downloads/lectures/CDO/spark_introduction.pdf) -->
 
 
 
 ### Distributed Systems for Data Processing
 
-- 2017-2018
+- 2018-2019
 - 3A Ensimag (ISI)
 - In French
 
-  - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2017.pdf)
+  - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2018.pdf)
 
 
 ### DevOps
@@ -80,3 +82,23 @@ Please find bellow some of the material I use during my lectures.
 
     - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf)
     - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf)
+
+## Old Material
+
+### Principles of Operating Systems and Concurrent Programming
+
+- Master 1
+
+  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
+  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
+  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
+  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/old/lecture_14--CPU_scheduling.pdf)
+  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_15--IO_management_HDDs_SSDs.pdf)
+  - [File systems]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_16--File_systems.pdf)
+  - [RAID]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_17--RAID.pdf)
+
+### Convex and Distributed Optimization
+
+- Master 2
+
+  - [Introduction to Spark]({{ site.url }}/downloads/lectures/old/CDO/spark_introduction.pdf)
