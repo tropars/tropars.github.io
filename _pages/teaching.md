@@ -8,7 +8,9 @@ navigation_weight: 3
 
 Please find bellow some of the material I use during my lectures.
 
-- [Principles of Operating Systems and Concurrent Programming](#principles-of-operating-systems-and-concurrent-programming)
+- [Principles of Operating Systems and Concurrent
+  Programming](#principles-of-operating-systems-and-concurrent-programming)
+- [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
 - [Convex and Distributed Optimization](#convex-and-distributed-optimization)
 - [Distributed Systems for Data
   Processing](#distributed-systems-for-data-processing)
@@ -29,6 +31,13 @@ Please find bellow some of the material I use during my lectures.
   <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_management_HDDs_SSDs.pdf) -->
   <!-- - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
   <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
+
+### Data Management in Large Scale Distributed Systems
+
+- 2018-2019
+- Master 2
+
+  - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
 
 
 ### Convex and Distributed Optimization
