@@ -38,7 +38,7 @@ Please find bellow some of the material I use during my lectures.
 - Master 2
 
   - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
-
+  - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
 
 ### Convex and Distributed Optimization
 
