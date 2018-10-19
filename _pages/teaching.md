@@ -24,7 +24,7 @@ Please find bellow some of the material I use during my lectures.
 - 2018-2019
 - Master 1
 
-  <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
+  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
   <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
   <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
   <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
@@ -101,13 +101,13 @@ Please find bellow some of the material I use during my lectures.
 
 - Master 1
 
-  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
-  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
-  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
-  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/old/lecture_14--CPU_scheduling.pdf)
-  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_15--IO_management_HDDs_SSDs.pdf)
-  - [File systems]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_16--File_systems.pdf)
-  - [RAID]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_17--RAID.pdf)
+  <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
+  <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
+  <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
+  <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/old/lecture_14--CPU_scheduling.pdf) -->
+  <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_15--IO_management_HDDs_SSDs.pdf) -->
+  <!-- - [File systems]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_16--File_systems.pdf) -->
+  <!-- - [RAID]({{ site.url }}/downloads/lectures/old/M1_OS/lecture_17--RAID.pdf) -->
 
 ### Convex and Distributed Optimization
 
