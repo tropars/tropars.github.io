@@ -42,7 +42,10 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
   - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
   - [Running Spark on your Laptop]({{ site.url }}/downloads/lectures/LSDM/LSDM-Spark-on-your-Laptop.pdf)
-    
+  - [Lab Spark]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
+    download: [source code]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
 
 ### Convex and Distributed Optimization
 
