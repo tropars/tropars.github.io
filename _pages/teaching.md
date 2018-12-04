@@ -53,7 +53,10 @@ Please find bellow some of the material I use during my lectures.
   - [NoSQL Databases]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf) (Material of
     Francieli Zanon Boito)
-
+  - [NoSQL Databases 2]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-6-nosql2.pdf) (Material of
+    Francieli Zanon Boito)
+    
 
 ### Convex and Distributed Optimization
 
