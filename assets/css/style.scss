@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+strong {
+    color: #494949;
+}
+
+
 header ul {
     list-style-type: none;
     display: block;
@@ -33,3 +38,4 @@ header ul a {
 header ul li + li + li{
     width: 200px;
 }
+

@@ -11,10 +11,12 @@ navigation_weight: 5
 Please do not hesitate to contact me if you are interested in doing a
 PhD or a Postdoc on topics related to my research interests.
 
-[comment]: # Below is a list of open positions in the context of High Performance
-[comment]: # Data Analytics:
+### Postdoc position
 
-[comment]: # + [PhD Position]({{ site.url }}/downloads/pdf/phd_dist_systems.pdf)
-[comment]: # + Research Engineer position (or postdoc): [in French]({{ site.url
-[comment]: # }}/downloads/pdf/Ingenieur_systemes_dist_lig.pdf), [in English]({{ site.url
-[comment]: # }}/downloads/pdf/Engineer_dist_systems_lig.pdf) 
+- **High-throughput stream processing in HPC systems for online data
+  analysis**
+  - *Mission*: Study the use of Big Data stream processing engines in
+    large scale HPC systems for online analysis of the data produced
+    by numerical simulations.
+  - [Detailed description]({{ site.url }}/_pages/postdoc_streaming_insitu.html)
+
