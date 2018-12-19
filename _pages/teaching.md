@@ -66,7 +66,9 @@ Please find bellow some of the material I use during my lectures.
 - 2018-2019
 - Master 2
 
-  - [Introduction to Spark]({{ site.url }}/downloads/lectures/CDO/spark_introduction.pdf)
+  - [Introduction to Spark]({{ site.url
+    }}/downloads/lectures/CDO/spark_introduction.pdf)
+  - [Instructions for installing Spark]({{ site.url }}/downloads/lectures/CDO/install_spark.pdf)
 
 
 
