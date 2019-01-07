@@ -56,6 +56,10 @@ Please find bellow some of the material I use during my lectures.
   - [NoSQL Databases 2]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-6-nosql2.pdf) (Material of
     Francieli Zanon Boito)
+  - [Performance]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-7-Performances.pdf) (Material of
+    Yves Denneulin)
+
   - [Instructions: Submitting your lab]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
     
