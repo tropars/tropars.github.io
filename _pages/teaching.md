@@ -117,8 +117,7 @@ Please find bellow some of the material I use during my lectures.
 - Master 1
 
     - [Introduction]({{ site.url
-      }}/downloads/lectures/PAP/pap_1_introduction.pdf) (A cleaner
-      version to come)
+      }}/downloads/lectures/PAP/pap_1_introduction.pdf)
 
     <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf) -->
     <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
