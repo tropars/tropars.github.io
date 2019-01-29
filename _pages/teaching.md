@@ -118,6 +118,9 @@ Please find bellow some of the material I use during my lectures.
 
     - [Introduction]({{ site.url
       }}/downloads/lectures/PAP/pap_1_introduction.pdf)
+    - [Architecture, programming and communication models]({{ site.url
+      }}/downloads/lectures/PAP/pap_2_models.pdf)
+
 
     <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf) -->
     <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
