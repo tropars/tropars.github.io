@@ -120,6 +120,8 @@ Please find bellow some of the material I use during my lectures.
       }}/downloads/lectures/PAP/pap_1_introduction.pdf)
     - [Architecture, programming and communication models]({{ site.url
       }}/downloads/lectures/PAP/pap_2_models.pdf)
+    - [Shared-memory algorithms]({{ site.url
+      }}/downloads/lectures/PAP/pap_3_shared_memory_algos.pdf)
 
 
     <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf) -->
