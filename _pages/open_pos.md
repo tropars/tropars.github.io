@@ -13,10 +13,9 @@ PhD or a Postdoc on topics related to my research interests.
 
 ### Postdoc position
 
-- **High-throughput stream processing in HPC systems for online data
-  analysis**
-  - *Mission*: Study the use of Big Data stream processing engines in
-    large scale HPC systems for online analysis of the data produced
-    by numerical simulations.
+- **Towards high performance stream processing**
+  - *Mission*: Study the design and the implementation of stream
+  processing engines to take advantage of emerging hardware
+  technologies (high performance networks, non-volatile memory, etc.).
   - [Detailed description]({{ site.url }}/_pages/postdoc_streaming_insitu.html)
 
