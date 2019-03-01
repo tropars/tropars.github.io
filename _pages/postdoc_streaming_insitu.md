@@ -1,10 +1,10 @@
-## Towards high performance stream processing
+## Towards high performance distributed stream processing
 
 ### Tl;dr
 
 * One-year postdoc position at Univ. Grenoble Alpes (LIG laboratory)
 * Topic: high performance stream processing engines
-* Goal: Study the design and the implementation of stream
+* Goal: Study the design and the implementation of distributed stream
   processing engines to take advantage of emerging hardware
   technologies (high performance networks, non-volatile memory, etc.).
 

@@ -13,8 +13,8 @@ PhD or a Postdoc on topics related to my research interests.
 
 ### Postdoc position
 
-- **Towards high performance stream processing**
-  - *Mission*: Study the design and the implementation of stream
+- **Towards high performance distributed stream processing**
+  - *Mission*: Study the design and the implementation of distributed stream
   processing engines to take advantage of emerging hardware
   technologies (high performance networks, non-volatile memory, etc.).
   - [Detailed description]({{ site.url }}/_pages/postdoc_streaming_insitu.html)
