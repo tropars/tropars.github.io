@@ -123,6 +123,9 @@ Please find bellow some of the material I use during my lectures.
       }}/downloads/lectures/PAP/pap_3_shared_memory_algos.pdf)
     - [OpenMP]({{ site.url
       }}/downloads/lectures/PAP/pap_4_openmp.pdf)
+    - [Collective operations]({{ site.url
+      }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
+
 
 
     <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf) -->
