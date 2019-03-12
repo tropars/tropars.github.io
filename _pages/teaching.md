@@ -124,11 +124,9 @@ Please find bellow some of the material I use during my lectures.
       }}/downloads/lectures/PAP/pap_4_openmp.pdf)
     - [Collective operations]({{ site.url
       }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
+    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
 
-
-
-    <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_7_mpi.pdf) -->
-    <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
+<!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
 
 ## Old Material
 
