@@ -125,6 +125,7 @@ Please find bellow some of the material I use during my lectures.
     - [Collective operations]({{ site.url
       }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
     - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
+    - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf)
 
 <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
 
