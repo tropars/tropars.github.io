@@ -21,68 +21,30 @@ Please find bellow some of the material I use during my lectures.
 
 ### Principles of Operating Systems and Concurrent Programming
 
-- 2018-2019
+- 2019-2020
 - Master 1
 
-  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
-  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
-  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
-  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
-  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
-  - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf)
-  - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf)
 
 ### Data Management in Large Scale Distributed Systems
 
-- 2018-2019
+- 2019-2020
 - Master 2
-
-  - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
-  - [MapReduce and Hadoop]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
-  - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
-  - [Running Spark on your Laptop]({{ site.url }}/downloads/lectures/LSDM/LSDM-Spark-on-your-Laptop.pdf)
-  - [Lab Spark]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
-    download: [source code]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
-  - [Stream Processing]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
-  - [Lab Spark 2]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
-  - [NoSQL Databases]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf) (Material of
-    Francieli Zanon Boito)
-  - [NoSQL Databases 2]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-6-nosql2.pdf) (Material of
-    Francieli Zanon Boito)
-  - [Performance]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-7-Performances.pdf) (Material of
-    Yves Denneulin)
-
-  - [Instructions: Submitting your lab]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
-    
     
 
 ### Convex and Distributed Optimization
 
-- 2018-2019
+- 2019-2020
 - Master 2
-
-  - [Introduction to Spark]({{ site.url
-    }}/downloads/lectures/CDO/spark_introduction.pdf)
-  - [Instructions for installing Spark]({{ site.url }}/downloads/lectures/CDO/install_spark.pdf)
 
 
 
 ### Distributed Systems for Data Processing
 
-- 2018-2019
+- 2019-2020
 - 3A Ensimag (ISI)
 - In French
 
-  - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2018.pdf)
+  <!-- - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2018.pdf) -->
 
 
 ### DevOps
@@ -128,13 +90,58 @@ Please find bellow some of the material I use during my lectures.
 
 ## Old Material
 
-<!-- ### Principles of Operating Systems and Concurrent Programming -->
+### Principles of Operating Systems and Concurrent Programming (Old)
 
-<!-- - Master 1 -->
+- Master 1
+
+  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
+  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
+  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
+  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
+  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
+  - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf)
+  - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf)
 
 
-<!-- ### Convex and Distributed Optimization -->
 
-<!-- - Master 2 -->
+### Data Management in Large Scale Distributed Systems (Old)
 
-<!--   - [Introduction to Spark]({{ site.url }}/downloads/lectures/old/CDO/spark_introduction.pdf) -->
+- Master 2
+
+  - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
+  - [MapReduce and Hadoop]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
+  - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
+  - [Running Spark on your Laptop]({{ site.url }}/downloads/lectures/LSDM/LSDM-Spark-on-your-Laptop.pdf)
+  - [Lab Spark]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
+    download: [source code]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
+  - [Stream Processing]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
+  - [Lab Spark 2]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
+  - [NoSQL Databases]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf) (Material of
+    Francieli Zanon Boito)
+  - [NoSQL Databases 2]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-6-nosql2.pdf) (Material of
+    Francieli Zanon Boito)
+  - [Performance]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-7-Performances.pdf) (Material of
+    Yves Denneulin)
+
+  - [Instructions: Submitting your lab]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
+    
+    
+
+### Convex and Distributed Optimization (Old)
+
+- Master 2
+
+  - [Introduction to Spark]({{ site.url
+    }}/downloads/lectures/CDO/spark_introduction.pdf)
+  - [Instructions for installing Spark]({{ site.url }}/downloads/lectures/CDO/install_spark.pdf)
+
+
