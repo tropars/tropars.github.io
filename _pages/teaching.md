@@ -51,7 +51,7 @@ Please find bellow some of the material I use during my lectures.
 - In French (Systèmes distribués pour le traitement de données)
 
   - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2019.pdf)
-
+  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
 
 ### DevOps
 
