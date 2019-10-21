@@ -25,6 +25,8 @@ Please find bellow some of the material I use during my lectures.
 - Master 1
 
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
+  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
+
 
 ### Data Management in Large Scale Distributed Systems
 
@@ -37,12 +39,6 @@ Please find bellow some of the material I use during my lectures.
   - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf)
 
 
-### Convex and Distributed Optimization
-
-- 2019-2020
-- Master 2
-
-
 
 ### Distributed Systems for Data Processing
 
@@ -51,7 +47,6 @@ Please find bellow some of the material I use during my lectures.
 - In French (Systèmes distribués pour le traitement de données)
 
   - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2019.pdf)
-  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
 
 ### DevOps
 
