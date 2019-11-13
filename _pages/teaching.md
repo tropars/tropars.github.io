@@ -42,6 +42,8 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
     download: [source code]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
+  - [Stream Processing]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
 
 
 
@@ -112,8 +114,6 @@ Please find bellow some of the material I use during my lectures.
 
 <!-- - Master 2 -->
 
-<!--   - [Stream Processing]({{ site.url -->
-<!--     }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf) -->
 <!--   - [Lab Spark 2]({{ site.url -->
 <!--     }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf) -->
 <!--   - [NoSQL Databases]({{ site.url -->
