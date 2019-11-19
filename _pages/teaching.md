@@ -11,7 +11,7 @@ Please find bellow some of the material I use during my lectures.
 - [Principles of Operating Systems and Concurrent
   Programming](#principles-of-operating-systems-and-concurrent-programming)
 - [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
-- [Convex and Distributed Optimization](#convex-and-distributed-optimization)
+- [Software Infrastructures for Data Centers and Clouds](#software-infrastructures-for-data-centers-and-clouds)
 - [Distributed Systems for Data
   Processing](#distributed-systems-for-data-processing)
 - [DevOps](#devops)
@@ -27,6 +27,8 @@ Please find bellow some of the material I use during my lectures.
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
   - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
   - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
+  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
+  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
 
 
 ### Data Management in Large Scale Distributed Systems
@@ -46,6 +48,13 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
 
 
+### Software Infrastructures for Data Centers and Clouds
+
+- 2019-2020
+- Master 2
+
+  - [About Failures in the Cloud]({{ site.url }}/downloads/lectures/SI4DCC/failures_in_cloud.pdf)
+
 
 ### Distributed Systems for Data Processing
 
@@ -57,41 +66,41 @@ Please find bellow some of the material I use during my lectures.
 
 ### DevOps
 
-- 2018-2019
+- 2019-2020
 - Master 1
 - In French
 
-    - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf)
-    - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf)
-    - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
-    - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
-    - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf)
-    - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf)
-    - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf)
-    - [Les forges]({{ site.url }}/downloads/lectures/DevOps/devops_8_forge.pdf)
-    - [Les numéros de version]({{ site.url }}/downloads/lectures/DevOps/devops_9_version_numbers.pdf)
-    - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf)
-    - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf)
+    <!-- - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf) -->
+    <!-- - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf) -->
+    <!-- - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf) -->
+    <!-- - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf) -->
+    <!-- - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf) -->
+    <!-- - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) -->
+    <!-- - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf) -->
+    <!-- - [Les forges]({{ site.url }}/downloads/lectures/DevOps/devops_8_forge.pdf) -->
+    <!-- - [Les numéros de version]({{ site.url }}/downloads/lectures/DevOps/devops_9_version_numbers.pdf) -->
+    <!-- - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf) -->
+    <!-- - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf) -->
 
 
 ### Parallel Algorithms and Programming
 
-- 2018-2019
+- 2019-2020
 - Master 1
 
-    - [Introduction]({{ site.url
-      }}/downloads/lectures/PAP/pap_1_introduction.pdf)
-    - [Architecture, programming and communication models]({{ site.url
-      }}/downloads/lectures/PAP/pap_2_models.pdf)
-    - [Shared-memory algorithms]({{ site.url
-      }}/downloads/lectures/PAP/pap_3_shared_memory_algos.pdf)
-    - [OpenMP]({{ site.url
-      }}/downloads/lectures/PAP/pap_4_openmp.pdf)
-    - [Collective operations]({{ site.url
-      }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
-    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
-    - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf)
-    - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf)
+    <!-- - [Introduction]({{ site.url -->
+    <!--   }}/downloads/lectures/PAP/pap_1_introduction.pdf) -->
+    <!-- - [Architecture, programming and communication models]({{ site.url -->
+    <!--   }}/downloads/lectures/PAP/pap_2_models.pdf) -->
+    <!-- - [Shared-memory algorithms]({{ site.url -->
+    <!--   }}/downloads/lectures/PAP/pap_3_shared_memory_algos.pdf) -->
+    <!-- - [OpenMP]({{ site.url -->
+    <!--   }}/downloads/lectures/PAP/pap_4_openmp.pdf) -->
+    <!-- - [Collective operations]({{ site.url -->
+    <!--   }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf) -->
+    <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf) -->
+    <!-- - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf) -->
+    <!-- - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf) -->
 
 
 <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
@@ -103,8 +112,6 @@ Please find bellow some of the material I use during my lectures.
 <!-- - Master 1 -->
 
 
-<!--   - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
-<!--   - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf) -->
 <!--   - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
 <!--   - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
