@@ -135,7 +135,29 @@ Please find bellow some of the material I use during my lectures.
 
 <!--   - [Instructions: Submitting your lab]({{ site.url -->
 <!--     }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
+
+
+### Parallel Algorithms and Programming
+
+- Master 1
+
+    - [Introduction]({{ site.url
+      }}/downloads/lectures/PAP/pap_1_introduction.pdf)
+    - [Architecture, programming and communication models]({{ site.url
+      }}/downloads/lectures/PAP/pap_2_models.pdf)
+    - [Shared-memory algorithms]({{ site.url
+      }}/downloads/lectures/PAP/pap_3_shared_memory_algos.pdf)
+    - [OpenMP]({{ site.url
+      }}/downloads/lectures/PAP/pap_4_openmp.pdf)
+    - [Collective operations]({{ site.url
+      }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
+    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
+    - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf)
+    - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf)
     
+    - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf)
+
+
     
 
 ### Convex and Distributed Optimization (Old)
