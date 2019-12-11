@@ -52,7 +52,8 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
   - [NoSQL Databases]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf)
-
+  - [Lab Neo4j]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf)
 
 ### Software Infrastructures for Data Centers and Clouds
 
