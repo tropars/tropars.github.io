@@ -55,6 +55,10 @@ Please find bellow some of the material I use during my lectures.
   - [Lab Neo4j]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf)
 
+  - [Instructions: Submitting your lab]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
+
+
 ### Software Infrastructures for Data Centers and Clouds
 
 - 2019-2020
@@ -133,8 +137,6 @@ Please find bellow some of the material I use during my lectures.
 <!--     }}/downloads/lectures/LSDM/LSDM-7-Performances.pdf) (Material of -->
 <!--     Yves Denneulin) -->
 
-<!--   - [Instructions: Submitting your lab]({{ site.url -->
-<!--     }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
 
 
 ### Parallel Algorithms and Programming
