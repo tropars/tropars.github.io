@@ -54,6 +54,11 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf)
   - [Lab Neo4j]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf)
+  - [Lab Streaming]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to
+    download: [source code]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
+
 
   - [Instructions: Submitting your lab]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
