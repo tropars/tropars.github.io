@@ -62,7 +62,6 @@ Please find bellow some of the material I use during my lectures.
 
   - [Instructions: Submitting your lab]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
-  - test
 
 
 ### Software Infrastructures for Data Centers and Clouds
