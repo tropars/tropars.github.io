@@ -116,7 +116,7 @@ Please find bellow some of the material I use during my lectures.
       }}/downloads/lectures/PAP/pap_4_openmp.pdf)
     - [Collective operations]({{ site.url
       }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
-    <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf) -->
+    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
     <!-- - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf) -->
     <!-- - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf) -->
 
