@@ -94,10 +94,10 @@ Please find bellow some of the material I use during my lectures.
     - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
     - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf)
     - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) (The following additional notes complement the slides: [Notes sur les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers_notes.pdf))
-    <!-- - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf) -->
-    <!-- - [Les forges]({{ site.url }}/downloads/lectures/DevOps/devops_8_forge.pdf) -->
+    - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf)
+    - [Les forges]({{ site.url }}/downloads/lectures/DevOps/devops_8_forge.pdf)
     <!-- - [Les numéros de version]({{ site.url }}/downloads/lectures/DevOps/devops_9_version_numbers.pdf) -->
-    <!-- - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf) -->
+    - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf)
     <!-- - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf) -->
 
 
