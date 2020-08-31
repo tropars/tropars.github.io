@@ -12,6 +12,9 @@ For a complete list of my publications, please visit my academic profile on
 
 ### Recent publications
 
+- ICPP'19: N. Denoyelle, B. Goglin, E. Jeannot, T. Ropars. **Data
+and Thread Placement in NUMA Architectures: A Statistical Learning Approach**. *Proceedings of the 48th International Conference on Parallel Processing*, 2019.
+
 - SPAA'18: P. Fatourou, N. D. Kallimanis, and T. Ropars. **An
 Efficient Wait-free Resizable Hash Table**. *30th Symposium on
 Parallelism in Algorithms and Architectures*, 2018. [pdf]({{ site.url
