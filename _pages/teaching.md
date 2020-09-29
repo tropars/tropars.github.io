@@ -38,7 +38,7 @@ Please find bellow some of the material I use during my lectures.
 - 2020-2021
 - Master 2
 
-  <!-- - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf) -->
+  - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
   <!-- - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf) -->
   <!-- - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf) -->
   <!-- - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf) -->
