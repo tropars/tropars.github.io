@@ -40,7 +40,7 @@ Please find bellow some of the material I use during my lectures.
 
   - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
   - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
-  <!-- - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf) -->
+  - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
   <!-- - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf) -->
   <!-- - [Lab Spark]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to -->
