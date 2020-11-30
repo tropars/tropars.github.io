@@ -28,7 +28,7 @@ Please find bellow some of the material I use during my lectures.
   - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
   - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
   - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
-  <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf) -->
+  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
   <!-- - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
   <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
