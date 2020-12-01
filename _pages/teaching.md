@@ -50,14 +50,15 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
   - [Stream Processing]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
+  - [Lab Streaming]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to
+    download: [source code]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
+
   <!-- - [NoSQL Databases]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf) -->
   <!-- - [Lab Neo4j]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf) -->
-  <!-- - [Lab Streaming]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
-  <!--   download: [source code]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz)) -->
   <!-- - [File Formats]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf) -->
 
