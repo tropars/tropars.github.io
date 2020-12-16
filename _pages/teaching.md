@@ -56,6 +56,9 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
   - [NoSQL Databases -- Introduction]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
+  - [NoSQL Databases -- BigTable]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf)
+
 
   <!-- - [NoSQL Databases]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf) -->
