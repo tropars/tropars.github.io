@@ -67,8 +67,8 @@ Please find bellow some of the material I use during my lectures.
   <!-- - [File Formats]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf) -->
 
-  <!-- - [Instructions: Submitting your lab]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
+  - [Instructions: Submitting your lab]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
 
 
 ### Software Infrastructures for Data Centers and Clouds
