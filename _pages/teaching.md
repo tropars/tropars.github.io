@@ -58,14 +58,17 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
   - [NoSQL Databases -- BigTable]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf)
+  - [NoSQL Databases -- Cassandra]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf)
+  - [File Formats]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf)
+
 
 
   <!-- - [NoSQL Databases]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-5-nosql.pdf) -->
   <!-- - [Lab Neo4j]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf) -->
-  <!-- - [File Formats]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf) -->
 
   - [Instructions: Submitting your lab]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
