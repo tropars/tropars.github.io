@@ -62,6 +62,8 @@ Please find bellow some of the material I use during my lectures.
     }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf)
   - [File Formats]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf)
+  - [Graph Data at Scale]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-7-social-data-facebook.pdf)
 
 
 
