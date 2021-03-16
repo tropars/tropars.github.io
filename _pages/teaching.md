@@ -6,8 +6,9 @@ navigation_weight: 3
 
 ## Teaching
 
-Please find bellow some of the material I use during my lectures.
+Please find bellow some of the material I use during my lectures and labs.
 
+-  [Tutorials about the use of public Cloud platforms](#tutorials-about-the-use-of-public-cloud-platforms)
 - [Principles of Operating Systems and Concurrent
   Programming](#principles-of-operating-systems-and-concurrent-programming)
 - [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
@@ -18,6 +19,12 @@ Please find bellow some of the material I use during my lectures.
 - [Parallel Algorithms and
   Programming](#parallel-algorithms-and-programming)
 - [Material from the previous years](#old-material)
+
+
+### Tutorials about the use of public Cloud platforms
+
+- [Tutorials on Google Cloud](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/)
+
 
 ### Principles of Operating Systems and Concurrent Programming
 
