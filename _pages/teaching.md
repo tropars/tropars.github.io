@@ -138,9 +138,9 @@ Please find bellow some of the material I use during my lectures and labs.
     - Collective operations: [slides]({{ site.url
       }}/downloads/lectures/PAP/pap_5_mp_collectives_slides.pdf) and [lecture notes]({{ site.url
       }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf) 
-    <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf) -->
+    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
     <!-- <\!-- - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf) -\-> -->
-    <!-- - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf) -->
+    - Distributed-memory algorithms -- part 1: [slides]({{ site.url }}/downloads/lectures/PAP/pap_8.1_dist_memory_algos_slides.pdf) and [lecture notes]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos_part1.pdf).
 
 
 <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
