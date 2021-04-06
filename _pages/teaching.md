@@ -8,7 +8,7 @@ navigation_weight: 3
 
 Please find bellow some of the material I use during my lectures and labs.
 
--  [Tutorials about the use of public Cloud platforms](#tutorials-about-the-use-of-public-cloud-platforms)
+- [Tutorials about the use of public Cloud platforms](#tutorials-about-the-use-of-public-cloud-platforms)
 - [Principles of Operating Systems and Concurrent
   Programming](#principles-of-operating-systems-and-concurrent-programming)
 - [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
@@ -139,7 +139,9 @@ Please find bellow some of the material I use during my lectures and labs.
       }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf) 
     - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
     <!-- <\!-- - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf) -\-> -->
-    - Distributed-memory algorithms -- part 1: [slides]({{ site.url }}/downloads/lectures/PAP/pap_8.1_dist_memory_algos_slides.pdf) and [lecture notes]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos_part1.pdf).
+    - Distributed-memory algorithms -- part 1: [slides]({{ site.url }}/downloads/lectures/PAP/pap_8.1_dist_memory_algos_slides.pdf)
+    - Distributed-memory algorithms -- part 2 (stencil algorithms): [slides]({{ site.url }}/downloads/lectures/PAP/pap_8.2_dist_memory_algos_slides.pdf)
+    - Lecture notes on [distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf)
 
 
 <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
