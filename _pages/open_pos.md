@@ -11,6 +11,16 @@ navigation_weight: 5
 Please do not hesitate to contact me if you are interested in doing a
 PhD or a Postdoc on topics related to my research interests.
 
+
+### PhD Positions
+
+
+- **Towards self-healing large scale distributed systems based on digital twins**
+  - [Detailed description]({{ site.url }}/_pages/phd_DT_AI.html)
+
+
+
+
 ### Internship offers
 
 List of current internship offers (contact me for additional information):
