@@ -1,7 +1,7 @@
 ---
 title: Open positions and internships
 permalink: /positions/
-navigation_weight: 5
+navigation_weight: 6
 ---
 
 
@@ -15,9 +15,10 @@ PhD or a Postdoc on topics related to my research interests.
 ### PhD Positions
 
 
-- **Towards self-healing large scale distributed systems based on digital twins**
-  - [Detailed description]({{ site.url }}/_pages/phd_DT_AI.html)
+No funded position at the moment.
 
+<!-- - **Towards self-healing large scale distributed systems based on digital twins** -->
+<!--   - [Detailed description]({{ site.url }}/_pages/phd_DT_AI.html) -->
 
 
 
@@ -26,8 +27,6 @@ PhD or a Postdoc on topics related to my research interests.
 List of current internship offers (contact me for additional information):
 - [A desaggregated scalable message broker based on NVRAM](#a-desaggregated-scalable-message-broker-based-on-nvram)
 - [Energy-efficient computing with NVRAM](#energy-efficient-computing-with-nvram)
-- [Efficient write-back strategies for checkpointing in NVRAM](#efficient-write-back-strategies-for-checkpointing-in-nvram)
-- [An AI approach to detect performance issues in distributed systems](#an-ai-approach-to-detect-performance-issues-in-distributed-systems)
 
 #### A desaggregated scalable message broker based on NVRAM
 
@@ -43,20 +42,6 @@ Message brokers (such as Apache Kafka) are at the core of many large scale distr
 
 
 NVRAM is a new memory technology that combines the non-volatile properties of disks with the performance of DRAM. Furthermore, NVRAM has unique properties in terms of energy consumption since it consumes power only during data accesses. Hence, one can envision to design new algorithms that consume less energy than the legacy solution where all data are stored in DRAM. However, improving energy efficiency is not that simple because: i) in reality, NVRAM is a bit slower than DRAM; ii) writing to NVRAM is costly in terms of energy. Considering data-intensive applications, such as graph processing applications, the goal of this internship is to design and implement data placement strategies to make the best use of NVRAM to improve the energy efficiency of applications. 
-
-#### Efficient write-back strategies for checkpointing in NVRAM
-
-- M1 internship
-- **Keywords**: NVRAM, fault tolerance, operating systems 
-
-NVRAM is a new memory technology that combines the non-volatile properties of disks with the performance of DRAM. NVRAM offers new opportunities to build efficient fault tolerant distributed systems. One promising approach to take advantage of NVRAM to build resilient applications is high-frequency checkpoints, where the state of the application is periodically (several times per second) flushed to NVRAM. Obviously the efficiency of such approaches high depends on the strategy that is used to detect and flush the modifications of the application state. The goal of this internship is to design and evaluate strategies for checkpointing applications' state to NVRAM.
-
-#### An AI approach to detect performance issues in distributed systems
-
-- M1 or M2 internship
-- **Keywords**: Distributed systems, failure detection, AI, digital twin
-
-The goal of this internship is to apply the concept of Digital Twin to the problem of failure detection in distributed applications.
 
 
 
