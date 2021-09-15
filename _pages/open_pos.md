@@ -15,10 +15,10 @@ PhD or a Postdoc on topics related to my research interests.
 ### PhD Positions
 
 
-No funded position at the moment.
+<!-- No funded position at the moment. -->
 
-<!-- - **Towards self-healing large scale distributed systems based on digital twins** -->
-<!--   - [Detailed description]({{ site.url }}/_pages/phd_DT_AI.html) -->
+- **Towards self-healing large scale distributed systems based on digital twins**
+  - [Detailed description]({{ site.url }}/_pages/phd_DT_AI.html)
 
 
 
