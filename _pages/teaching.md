@@ -28,49 +28,49 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Principles of Operating Systems and Concurrent Programming
 
-- 2020-2021
+- 2021-2022
 - Master 1
 
-  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
-  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
-  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
-  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
-  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
-  - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf)
-  - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf)
+  <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
+  <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
+  <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
+  <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
+  <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf) -->
+  <!-- - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
+  <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
 
 ### Data Management in Large Scale Distributed Systems
 
-- 2020-2021
+- 2021-2022
 - Master 2
 
-  - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
-  - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
-  - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
-  <!-- - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf) -->
-  - [Lab Spark]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
-    download: [source code]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
-  - [Lab Spark 2]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
-  - [Stream Processing]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
-  - [Lab Streaming]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to
-    download: [source code]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
-  - [NoSQL Databases -- Introduction]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
-  - [NoSQL Databases -- BigTable]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf)
-  - [NoSQL Databases -- Cassandra]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf)
-  - [File Formats]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf)
-  - [Graph Data at Scale]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-7-social-data-facebook.pdf)
+  <!-- - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf) -->
+  <!-- - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf) -->
+  <!-- - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf) -->
+  <!-- <\!-- - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf) -\-> -->
+  <!-- - [Lab Spark]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to -->
+  <!--   download: [source code]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz)) -->
+  <!-- - [Lab Spark 2]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf) -->
+  <!-- - [Stream Processing]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf) -->
+  <!-- - [Lab Streaming]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
+  <!--   download: [source code]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz)) -->
+  <!-- - [NoSQL Databases -- Introduction]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf) -->
+  <!-- - [NoSQL Databases -- BigTable]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf) -->
+  <!-- - [NoSQL Databases -- Cassandra]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf) -->
+  <!-- - [File Formats]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf) -->
+  <!-- - [Graph Data at Scale]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-7-social-data-facebook.pdf) -->
 
 
 
@@ -79,13 +79,13 @@ Please find bellow some of the material I use during my lectures and labs.
   <!-- - [Lab Neo4j]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf) -->
 
-  - [Instructions: Submitting your lab]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
+  <!-- - [Instructions: Submitting your lab]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
 
 
 ### Software Infrastructures for Data Centers and Clouds
 
-- 2020-2021
+- 2021-2022
 - Master 2
 
   <!-- - [About Failures in the Cloud]({{ site.url }}/downloads/lectures/SI4DCC/failures_in_cloud.pdf) -->
@@ -93,11 +93,11 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Distributed Systems for Data Processing
 
-- 2020-2021
+- 2021-2022
 - 3A Ensimag (ISI)
 - In French (Systèmes distribués pour le traitement de données)
 
-  - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2020.pdf)
+  - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2021.pdf)
 
 ### DevOps
 
