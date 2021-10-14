@@ -31,7 +31,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - 2021-2022
 - Master 1
 
-  <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
+  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
   <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
   <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
   <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
@@ -47,7 +47,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
   - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
   - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
-  <!-- - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf) -->
+  - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
   <!-- <\!-- - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf) -\-> -->
   <!-- - [Lab Spark]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to -->
