@@ -9,15 +9,12 @@ navigation_weight: 3
 Please find bellow some of the material I use during my lectures and labs.
 
 - [Tutorials about the use of public Cloud platforms](#tutorials-about-the-use-of-public-cloud-platforms)
-- [Principles of Operating Systems and Concurrent
-  Programming](#principles-of-operating-systems-and-concurrent-programming)
+- [Principles of Operating Systems and Concurrent Programming](#principles-of-operating-systems-and-concurrent-programming)
 - [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
 - [Software Infrastructures for Data Centers and Clouds](#software-infrastructures-for-data-centers-and-clouds)
-- [Distributed Systems for Data
-  Processing](#distributed-systems-for-data-processing)
+- [Distributed Systems for Data Processing](#distributed-systems-for-data-processing)
 - [DevOps](#devops)
-- [Parallel Algorithms and
-  Programming](#parallel-algorithms-and-programming)
+- [Parallel Algorithms and Programming](#parallel-algorithms-and-programming)
 - [Material from the previous years](#old-material)
 
 
@@ -32,7 +29,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - Master 1
 
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
-  <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
+  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
   <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
   <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
   <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf) -->
