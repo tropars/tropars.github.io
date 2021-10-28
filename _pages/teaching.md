@@ -52,8 +52,8 @@ Please find bellow some of the material I use during my lectures and labs.
     }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
   <!-- - [Lab Spark 2]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf) -->
-  <!-- - [Stream Processing]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf) -->
+  - [Stream Processing]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
   <!-- - [Lab Streaming]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
   <!--   download: [source code]({{ site.url -->
