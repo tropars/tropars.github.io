@@ -46,10 +46,10 @@ Please find bellow some of the material I use during my lectures and labs.
   - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
   - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
   - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf)
-  <!-- - [Lab Spark]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to -->
-  <!--   download: [source code]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz)) -->
+  - [Lab Spark]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
+    download: [source code]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
   <!-- - [Lab Spark 2]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf) -->
   <!-- - [Stream Processing]({{ site.url -->
