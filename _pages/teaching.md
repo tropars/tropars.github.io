@@ -30,7 +30,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
   - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
-  <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
+  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
   <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
   <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf) -->
   <!-- - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
@@ -50,17 +50,20 @@ Please find bellow some of the material I use during my lectures and labs.
     }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
     download: [source code]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
-  <!-- - [Lab Spark 2]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf) -->
   - [Stream Processing]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
+  - [NoSQL Databases -- Introduction]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
+  - [Lab Spark 2]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
+
   <!-- - [Lab Streaming]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
   <!--   download: [source code]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz)) -->
-  <!-- - [NoSQL Databases -- Introduction]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf) -->
-  <!-- - [NoSQL Databases -- BigTable]({{ site.url -->
+
+
+<!-- - [NoSQL Databases -- BigTable]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf) -->
   <!-- - [NoSQL Databases -- Cassandra]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf) -->
