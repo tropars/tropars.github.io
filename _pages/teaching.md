@@ -56,11 +56,10 @@ Please find bellow some of the material I use during my lectures and labs.
     }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
   - [Lab Spark 2]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
-
-  <!-- - [Lab Streaming]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
-  <!--   download: [source code]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz)) -->
+  - [Lab Streaming]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to
+    download: [source code]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
 
 
 <!-- - [NoSQL Databases -- BigTable]({{ site.url -->
