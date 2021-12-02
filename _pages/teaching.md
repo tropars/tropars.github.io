@@ -60,10 +60,8 @@ Please find bellow some of the material I use during my lectures and labs.
     }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to
     download: [source code]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
-
-
-<!-- - [NoSQL Databases -- BigTable]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf) -->
+  - [NoSQL Databases -- BigTable]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf)
   <!-- - [NoSQL Databases -- Cassandra]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf) -->
   <!-- - [File Formats]({{ site.url -->
