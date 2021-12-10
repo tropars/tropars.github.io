@@ -62,8 +62,10 @@ Please find bellow some of the material I use during my lectures and labs.
     }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
   - [NoSQL Databases -- BigTable]({{ site.url
     }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf)
-  <!-- - [NoSQL Databases -- Cassandra]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf) -->
+  - [NoSQL Databases -- Cassandra]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf)
+  - [Column-oriented Storage]({{ site.url}}/downloads/lectures/LSDM/LSDM-6-column-oriented-storage.pdf)
+
   <!-- - [File Formats]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf) -->
   <!-- - [Graph Data at Scale]({{ site.url -->
