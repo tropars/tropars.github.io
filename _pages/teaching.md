@@ -13,7 +13,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
 - [Software Infrastructures for Data Centers and Clouds](#software-infrastructures-for-data-centers-and-clouds)
 - [Distributed Systems for Data Processing](#distributed-systems-for-data-processing)
-- [Systèmes d'Exploitation](#systèmes-dexploitation)
+- [Systèmes d'Exploitation](#systemes-dexploitation)
 - [DevOps](#devops)
 - [Parallel Algorithms and Programming](#parallel-algorithms-and-programming)
 - [Material from the previous years](#old-material)
@@ -99,7 +99,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
   - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2021.pdf)
 
-### Systèmes d'Exploitation
+### Systemes d'Exploitation
 
 - 2021-2022
 - L3 MI
