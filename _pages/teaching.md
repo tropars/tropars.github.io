@@ -105,6 +105,11 @@ Please find bellow some of the material I use during my lectures and labs.
 - L3 MI
 - In French
 
+- [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf)
+- [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf)
+
+
+
 ### DevOps
 
 - 2022-2022
