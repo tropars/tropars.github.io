@@ -108,6 +108,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf)
 - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf)
+- [Fichiers et entrées-sorties]({{ site.url }}/downloads/lectures/L3_SE/SE_3_fichiers_es.pdf)
 
 ### Formation Docker
 
