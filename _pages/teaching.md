@@ -84,12 +84,14 @@ Please find bellow some of the material I use during my lectures and labs.
   <!--   }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
 
 
-### Software Infrastructures for Data Centers and Clouds
+### Cloud Computing, from infrastructure to applications
 
 - 2021-2022
 - Master 2
 
-  <!-- - [About Failures in the Cloud]({{ site.url }}/downloads/lectures/SI4DCC/failures_in_cloud.pdf) -->
+- [Failures in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Failures.pdf)
+- [Replication for fault tolerance in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Replication.pdf)
+- [Scaling through partitioning in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Partitioning.pdf)
 
 
 ### Distributed Systems for Data Processing
@@ -98,7 +100,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - 3A Ensimag (ISI)
 - In French (Systèmes distribués pour le traitement de données)
 
-  - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2021.pdf)
+- [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2021.pdf)
 
 ### Systemes d'Exploitation
 
