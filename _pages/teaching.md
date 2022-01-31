@@ -147,10 +147,10 @@ Please find bellow some of the material I use during my lectures and labs.
 - 2022-2022
 - Master 1
 
-    <!-- - [Introduction]({{ site.url -->
-    <!--   }}/downloads/lectures/PAP/pap_1_introduction.pdf) -->
-    <!-- - [Performance and Challenges]({{ site.url -->
-    <!--   }}/downloads/lectures/PAP/pap_2_perf_challenges.pdf) -->
+    - [Introduction]({{ site.url
+      }}/downloads/lectures/PAP/pap_1_introduction.pdf)
+    - [Performance and Challenges]({{ site.url
+      }}/downloads/lectures/PAP/pap_2_perf_challenges.pdf)
     <!-- - [Parallel Architectures and programming models]({{ site.url -->
     <!--   }}/downloads/lectures/PAP/pap_3_models.pdf) -->
     <!-- <\!-- - [Shared-memory algorithms]({{ site.url -\-> -->
