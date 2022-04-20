@@ -12,6 +12,8 @@ For a complete list of my publications, please visit my academic profile on
 
 ### Some recent publications
 
+- EuroSys'22: A. Khorguani, T. Ropars, N. De Palma. **ResPCT: Fast Checkpointing in Non-volatile Memory for Multi-threaded Applications**. *EuroSys*, 2022. [pdf]({{ site.url }}/downloads/pdf/publications/eurosys2022-KRD-ResPCT.pdf)
+
 - ICDCN'21: M. Platini, T. Ropars, B. Pelletier, N. De Palma. **LogFlow: Simplified Log Analysis for Large Scale Systems**. *22nd International Conference on Distributed Computing and Networking*, 2021. [pdf]({{ site.url
 }}/downloads/pdf/publications/icdcn2021-PRPP-Logflow.pdf)
 
