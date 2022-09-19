@@ -100,7 +100,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - 3A Ensimag (ISI)
 - In French (Systèmes distribués pour le traitement de données)
 
-<!-- - [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2021.pdf) -->
+- [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2022.pdf)
 
 ### Systemes d'Exploitation
 
