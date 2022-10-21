@@ -9,13 +9,32 @@
 
 ### Context
 
-In the context of global warming, reducing the carbon emissions of computer infrastructures is a top priority. Datacenters are responsible for a large fraction of the carbon emissions of IT. Hence, the energy efficiency of datacenters needs to be improved. 
+In the context of global warming, reducing the carbon emissions of computer infrastructures is a top priority. Datacenters are responsible for a large fraction of the carbon emissions of IT. 
 
-Datacenters provide a large set of services to users. Among other things, it implements different kinds of mechanisms to ensure the reliable execution of applications and the availability of data despite crashes. Until today, researches working on fault tolerant systems have tried to design solutions that maximize performance. However, is the most efficient solution performance-wise also the most efficient solution from energy point of view? The goal of this internship is to try answering this question.
+To reduce the carbon footprint of datacenters, actions at multiple levels need to be taken. The way of managing and using the hardware should change [1]. However, efforts made only at the hardware level will not be enough to solve the challenges we are facing: software design needs to be made carbon aware [2]. A good example that illustrates the challenges we are facing is reliability and storage. To ensure the availability of data in the Cloud despite crashes, data are replicated on different storage devices. To make data storage more efficient, SSDs can be used instead of HDDs. However, when considering the total carbon footprint, including the carbon emissions required to build the devices, it is not clear anymore than using SSDs is better [3]. To answer this question, many parameters need to be taken into account: The carbon footprint related to the construction of the devices; the energy consumption of the software running on these devices; the quantity of work per energy unit that a software solution running on a given hardware can achieve; the impact of each solution on the other software components in the system, etc.
+
+Considering the reliable storage of data in datacenters, the goal of this internship is to analyze the carbon footprint of different approaches and, if possible, to propose a new approach that would reduce the carbon emissions.
 
 ### Mission
 
-Please contact me for additional information
+The intern will be in charge of the following tasks:
+
+- Studying recent publications and collecting information about the carbon footprint of current hardware.
+- Running experimental campaigns on our large-scale private Cloud platform, to analyze the energy/performance trade-ff provided by different hardware and software solutions for the reliable storage of data.
+- Analyzing the results to propose a strategy to reduce the carbon footprint of reliable storage approaches
+
+For this internship, a scripting language (shell or python) will be used to automatize the experiments.
+
+
+### References
+
+
+[1] Tomlinson, Amanda, and George Porter. "Something Old, Something New: Extending the Life of CPUs in Datacenters."
+
+[2] Anderson, Thomas, et al. "Treehouse: A Case For Carbon-Aware Datacenter Software." arXiv preprint arXiv:2201.02120 (2022).
+
+[3] Tannu, Swamit, and Prashant J. Nair. "The Dirty Secret of SSDs: Embodied Carbon." arXiv preprint arXiv:2207.10793 (2022).
+
 
 ### Location
 
