@@ -25,7 +25,9 @@ No funded position at the moment.
 ## Internship offers
 
 - [Concurrent programming for CXL-based servers]({{ site.url }}/_pages/internship3.html)
+
 - [Energy efficiency and reliability in datacenters: is faster always better?]({{ site.url }}/_pages/internship1.html)
+
 - [Reliable disaggregated cloud applications: RDMA + non-volatile memory]({{ site.url }}/_pages/internship2.html)
 
 
