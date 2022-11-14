@@ -56,8 +56,8 @@ Please find bellow some of the material I use during my lectures and labs.
     }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
   - [Stream Processing]({{ site.url
       }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
-  <!-- - [NoSQL Databases -- Introduction]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf) -->
+  - [NoSQL Databases -- Introduction]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
 
   <!-- - [Lab Streaming]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
