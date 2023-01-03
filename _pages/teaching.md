@@ -108,8 +108,8 @@ Please find bellow some of the material I use during my lectures and labs.
 - L3 MI
 - In French
 
-<!-- - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf) -->
-<!-- - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf) -->
+    - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf)
+    - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf)
 <!-- - [Fichiers et entrées-sorties]({{ site.url }}/downloads/lectures/L3_SE/SE_3_fichiers_es.pdf) -->
 <!-- - [Redirections et communication inter-processus]({{ site.url }}/downloads/lectures/L3_SE/SE_4_redirections_ipc.pdf) -->
 <!-- - [Sécurité]({{ site.url }}/downloads/lectures/L3_SE/SE_5_securite.pdf) -->
