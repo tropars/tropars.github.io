@@ -120,8 +120,8 @@ Please find bellow some of the material I use during my lectures and labs.
 - M2 GI
 - In French
 
-<!-- - [Docker et Docker Compose]({{ site.url }}/downloads/lectures/Docker/formation_docker.pdf) -->
-<!-- - [Travaux pratiques](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/docker/) -->
+    - [Docker et Docker Compose]({{ site.url }}/downloads/lectures/Docker/formation_docker.pdf)
+    - [Travaux pratiques](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/docker/)
 
 ### DevOps
 
