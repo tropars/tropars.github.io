@@ -80,8 +80,8 @@ Please find bellow some of the material I use during my lectures and labs.
   <!-- - [Lab Neo4j]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf) -->
 
-  <!-- - [Instructions: Submitting your lab]({{ site.url -->
-  <!--   }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
+  - [Instructions: Submitting your lab]({{ site.url
+    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
 
 
 ### Cloud Computing, from infrastructure to applications
