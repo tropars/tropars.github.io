@@ -154,8 +154,8 @@ Please find bellow some of the material I use during my lectures and labs.
       }}/downloads/lectures/PAP/pap_1_introduction.pdf)
     - [Performance and challenges]({{ site.url
       }}/downloads/lectures/PAP/pap_2_perf_challenges.pdf)
-    <!-- - [Parallel architectures and programming models]({{ site.url -->
-    <!--   }}/downloads/lectures/PAP/pap_3_models.pdf) -->
+    - [Parallel architectures and programming models]({{ site.url
+      }}/downloads/lectures/PAP/pap_3_models.pdf)
     <!-- - [OpenMP]({{ site.url -->
     <!--   }}/downloads/lectures/PAP/pap_4_openmp.pdf) -->
     <!-- - [Collective operations]({{ site.url -->
