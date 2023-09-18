@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 
+
+repository: tropars/tropars.github.io
 title: Thomas Ropars
 
 include: ["_pages"]

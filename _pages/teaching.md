@@ -30,44 +30,44 @@ Please find bellow some of the material I use during my lectures and labs.
 - 2023-2024
 - Master 1
 
-  - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
-  - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf)
-  - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf)
-  - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
-  - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
-  - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf)
+  <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
+  <!-- - [Thread Synchronization Implementation]({{ site.url }}/downloads/lectures/M1_OS/lecture_12--Thread_synchro_implementation.pdf) -->
+  <!-- - [Advanced Topics on Thread Synchronization]({{ site.url }}/downloads/lectures/M1_OS/lecture_13--Thread_synchro_advanced.pdf) -->
+  <!-- - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf) -->
+  <!-- - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf) -->
+  <!-- - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf) -->
 
 <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
 
 ### Data Management in Large Scale Distributed Systems
 
-- 2022-2023
+- 2023-2024
 - Master 2
 
-  - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf)
-  - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf)
-  - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf)
-  - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf)
-  - [Lab Spark]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to
-    download: [source code]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz))
-  - [Lab Spark 2 -- graded lab]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf)
-  - [Stream Processing]({{ site.url
-      }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf)
-  - [NoSQL Databases -- Introduction]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf)
-  - [Lab Streaming]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to
-    download: [source code]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz))
-  - [NoSQL Databases -- BigTable]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf)
-  - [NoSQL Databases -- Cassandra]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf)
-  - [Column-oriented Storage]({{ site.url}}/downloads/lectures/LSDM/LSDM-6-column-oriented-storage.pdf)
+  <!-- - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf) -->
+  <!-- - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf) -->
+  <!-- - [Apache Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-3-spark.pdf) -->
+  <!-- - [Installing Spark]({{ site.url }}/downloads/lectures/LSDM/LSDM-install-spark.pdf) -->
+  <!-- - [Lab Spark]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.pdf) (code to -->
+  <!--   download: [source code]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-spark.tar.gz)) -->
+  <!-- - [Lab Spark 2 -- graded lab]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-spark-google.pdf) -->
+  <!-- - [Stream Processing]({{ site.url -->
+  <!--     }}/downloads/lectures/LSDM/LSDM-4-streaming.pdf) -->
+  <!-- - [NoSQL Databases -- Introduction]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-5.1-nosql-fundamentals.pdf) -->
+  <!-- - [Lab Streaming]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.pdf) (code to -->
+  <!--   download: [source code]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab-streaming.tar.gz)) -->
+  <!-- - [NoSQL Databases -- BigTable]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-5.2-nosql-bigtable.pdf) -->
+  <!-- - [NoSQL Databases -- Cassandra]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-5.3-nosql-cassandra.pdf) -->
+  <!-- - [Column-oriented Storage]({{ site.url}}/downloads/lectures/LSDM/LSDM-6-column-oriented-storage.pdf) -->
 
   <!-- - [File Formats]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-6-file-formats.pdf) -->
@@ -81,18 +81,18 @@ Please find bellow some of the material I use during my lectures and labs.
   <!-- - [Lab Neo4j]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab-intro-neo4j.pdf) -->
 
-  - [Instructions: Submitting your lab]({{ site.url
-    }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html)
+  <!-- - [Instructions: Submitting your lab]({{ site.url -->
+  <!--   }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
 
 
 ### Cloud Computing, from infrastructure to applications
 
-- 2022-2023
+- 2023-2024
 - Master 2
 
-    - [Failures in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Failures.pdf)
-    - [Replication for fault tolerance in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Replication.pdf)
-    - [Scaling through partitioning in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Partitioning.pdf)
+    <!-- - [Failures in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Failures.pdf) -->
+    <!-- - [Replication for fault tolerance in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Replication.pdf) -->
+    <!-- - [Scaling through partitioning in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Partitioning.pdf) -->
 
 
 ### Distributed Systems for Data Processing
