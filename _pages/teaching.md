@@ -27,7 +27,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Principles of Operating Systems and Concurrent Programming
 
-- 2022-2023
+- 2023-2024
 - Master 1
 
   - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf)
@@ -36,7 +36,8 @@ Please find bellow some of the material I use during my lectures and labs.
   - [CPU scheduling]({{ site.url }}/downloads/lectures/M1_OS/lecture_14--CPU_scheduling.pdf)
   - [IO management, HDDs, and SSDs]({{ site.url }}/downloads/lectures/M1_OS/lecture_15--IO_disks.pdf)
   - [File systems]({{ site.url }}/downloads/lectures/M1_OS/lecture_16--File_systems.pdf)
-  <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
+
+<!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
 
 ### Data Management in Large Scale Distributed Systems
@@ -96,11 +97,11 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Distributed Systems for Data Processing
 
-- 2022-2023
+- 2023-2024
 - 3A Ensimag (ISI)
 - In French (Systèmes distribués pour le traitement de données)
 
-- [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2022.pdf)
+- [Presentation du projet]({{ site.url }}/downloads/lectures/SDTD/sdtd_presentation_2023.pdf)
 
 ### Systemes d'Exploitation
 
