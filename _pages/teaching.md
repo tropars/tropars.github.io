@@ -90,7 +90,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - 2023-2024
 - Master 2
 
-    <!-- - [Failures in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Failures.pdf) -->
+    - [Failures in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Failures.pdf)
     <!-- - [Replication for fault tolerance in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Replication.pdf) -->
     <!-- - [Scaling through partitioning in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Partitioning.pdf) -->
 
