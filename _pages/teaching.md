@@ -40,10 +40,10 @@ Please find bellow some of the material I use during my lectures and labs.
 <!-- - [RAID]({{ site.url }}/downloads/lectures/M1_OS/lecture_17--RAID.pdf) -->
 
 
-### Data Management in Large Scale Distributed Systems
+<!-- ### Data Management in Large Scale Distributed Systems -->
 
-- 2023-2024
-- Master 2
+<!-- - 2023-2024 -->
+<!-- - Master 2 -->
 
   <!-- - [Introduction]({{ site.url }}/downloads/lectures/LSDM/LSDM-1-introduction.pdf) -->
   <!-- - [MapReduce and Hadoop]({{ site.url }}/downloads/lectures/LSDM/LSDM-2-mapreduce-hadoop.pdf) -->
@@ -83,6 +83,16 @@ Please find bellow some of the material I use during my lectures and labs.
 
   <!-- - [Instructions: Submitting your lab]({{ site.url -->
   <!--   }}/downloads/lectures/LSDM/LSDM-lab_submission_instructions.html) -->
+
+
+### Distributed Systems
+
+- 2023-2024
+- Master 2
+
+    - [Introduction]({{ site.url }}/downloads/lectures/DS/DS-0-introduction.pdf)
+    - [The ordering of events]({{ site.url }}/downloads/lectures/DS/DS-1-motivations_ordering.pdf)
+    - [Session 1 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-1-exercises.pdf)
 
 
 ### Cloud Computing, from infrastructure to applications
