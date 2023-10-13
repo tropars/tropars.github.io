@@ -93,6 +93,8 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Introduction]({{ site.url }}/downloads/lectures/DS/DS-0-introduction.pdf)
     - [The ordering of events]({{ site.url }}/downloads/lectures/DS/DS-1-motivations_ordering.pdf)
     - [Session 1 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-1-exercises.pdf)
+    - [Logical time]({{ site.url }}/downloads/lectures/DS/DS-2-time.pdf)
+    - [Session 2 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-2-exercises.pdf)
 
 
 ### Cloud Computing, from infrastructure to applications
