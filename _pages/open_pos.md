@@ -24,11 +24,11 @@ No funded position at the moment.
 
 ## Internship offers
 
-- [Concurrent programming for CXL-based servers]({{ site.url }}/_pages/internship3.html)
+- [Performance of concurrent algorithms: a carbon footprint perspective]({{ site.url }}/_pages/internship3.html)
 
-- [Energy efficiency and reliability in datacenters: is faster always better?]({{ site.url }}/_pages/internship1.html)
+- [Improving the carbon footprint of reliable storage in datacenters]({{ site.url }}/_pages/internship1.html)
 
-- [Reliable disaggregated cloud applications: RDMA + non-volatile memory]({{ site.url }}/_pages/internship2.html)
+- [A lightweight and general Machine-Learning model to predict micro-service resource consumption]({{ site.url }}/_pages/internship2.html)
 
 
 

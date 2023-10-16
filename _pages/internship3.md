@@ -1,35 +1,19 @@
-## Concurrent programming for CXL-based servers
+## Performance of concurrent algorithms: a carbon footprint perspective
 
 ### Tl;dr
 
-* 3 month internship position at Univ. Grenoble Alpes (LIG laboratory)
-* M1 internship
-* Topic: multithread programming in CXL-based servers
-* Goal: Design a lock algorithm that can work efficiently in systems based on CXL memory expanders
+* 2 to 6 months internship position at Univ. Grenoble Alpes (LIG laboratory)
+* M1 or M2 internship
+* Topic: Performance of concurrent algorithms
+* Goal: Analyzing the carbon footprint of concurrent algorithms
 
 ### Context
 
-CXL is the new revolution in server architecture [1, 2]. It is new standard to interconnect all devices inside a server: the processors, the accelerators, the network cards, etc. Among other things, CXL is designed to overcome the memory limitations of current architectures. CXL will allow plugging memory expanders in servers to extend the memory capacity, and allow any device to access this memory in a cache-coherent manner. Having a cache-coherent globally shared memory between all computer devices open greats opportunities to design new efficient applications, but it also raises several new challenges from system point of view [3].
+In the context of global warming, reducing the carbon emissions of computer infrastructures is a top priority. Concurrent algorithms are at the core of computer software today as their purpose is to allow applications to take advantage of multi-core processors.
 
-One of the challenges is concurrent programming. Traditionally, we have assumed that only the main processor was able to access the main memory, and that, this memory was directly attached to the main processor. But, what happens if multiple devices can access the main memory? And if the memory is not directly attached to the processor, but belongs to a dedicated memory expander device? The goal of this internship is to start studying this problem by considering the ubiquitous problem of mutual exclusion. 
+Different families of concurrent algorithms exists. For instance, we can classify algorithms depending on the progress guarantees they provide (blocking, lock-free, wait-free). The goal of this internship is to look at concurrent algorithms from another perspective: their carbon footprint. What does measuring the carbon footprint of concurrent algorithms means? Are they significant differences in terms of carbon footprint between different classes of algorithms? What are the characteristics of efficient algorithms from this point of view?
 
-### Mission
-
-The intern will be in charge of the following tasks:
-
-- Studying the CXL standard and related publications to understand the challenges related to concurrent programming over CXL
-- Design an efficient lock solution for CXL memory expanders
-- Implement the proposed solution and evaluate it in our private cloud platform.
-
-The programming language used for this project will be C.
-
-### References
-
-[1] CXL 3.0 specification --  White Paper, The CXL consortium, 2022.
-
-[2] [Exploring Compute Express Link™ (CXL™) Cache Coherency](https://www.youtube.com/watch?v=Z75iJqGK574), The CXL consortium, Youtube video, 2022. 
-
-[3] Mehra, Pankaj, and Tom Coughlin. "Taming Memory With Disaggregation." Computer 55.9 (2022): 94-98.
+The goal of this internship is to try answering (at least partially) some of these questions.
 
 
 ### Location

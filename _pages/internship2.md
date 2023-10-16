@@ -1,37 +1,27 @@
-## Reliable disaggregated cloud applications: RDMA + non-volatile memory
+## A lightweight and general Machine-Learning model to predict micro-service resource consumption
 
 ### Tl;dr
 
-* 5-6 month internship position at Univ. Grenoble Alpes (LIG laboratory)
-* M2 internship
-* Topic: Disaggregated datacenters and non-volatile memory
-* Goal: Design a solution to take advantage of non-volatile memory using RDMA in a disaggregated datacenter to build fault-tolerant applications.
+* 2 to 6 months internship position at Univ. Grenoble Alpes (LIG laboratory)
+* M1 or M2 internship
+* Topic: Performance of micro-service applications
+* Goal: Building a machine-learning model that can accurately predict the resource consumption of microservices, while requiring small amount of data to train and being able to generalize to new hardware.
 
 ### Context
 
-Disaggregation is a promising approach to efficiently use resources in datacenters. The idea is to increase flexibility in resource management by allowing applications to use resources of other servers, in our case the memory, if they don't have enough resources on the servers they are running [1]. To implement such strategies, we need to rely on high performance networks that provide Remote Direct Memory Access (RDMA) to allow a processor to directly access the memory of a remote node [2]. 
+As the micro-service application model becomes popular in the Cloud domain, more and more complex large-scale micro-services applications are deployed in datacenters [1]. For such complex applications, a challenge at execution time is to find a good hardware and software configuration, that can ensure expected performance without consuming to many resources. Another challenge is to adapt this configuration dynamically based on the current load experienced by the application.
 
-On the other hand, emerging non-volatile memory technologies (NVMM), that provide unprecedented performance for a persistent device, are a great opportunity to implement highly efficient fault tolerance for cloud applications. In our team, we have designed ResPCT [3], which is, the most efficient existing fault-tolerant solution based on NVMM for cloud applications. ResPCT takes advantage of local NVMM modules to make applications fault tolerant. The goal of this internship is to extend ResPCT to be able to take advantage of remote NVMM through RDMA in the context of a disaggregated datacenter. 
+In our team, we study how Machine Learning can help tackling this problem. Our approach is as follows: use our expertise and knowledge about the application to build accurate models that could work better than brute-force approaches that would consider the application as a black box. At the core of our approach is a model that, for a given micro-service, is able to predict the resource consumption of the service for a given load.
+
+We have already developed such a micro-service model. It provides promising results. The goal of the internship is to study and design techniques to improve the capabilities of this model. Multiple challenges still need to be tackled. To be able to react fast to changes in the application, we would like a solution that is fast to train and re-train while keeping a high accuracy. We would also like to have a model that is able to generalize to new hardware. 
+
+The goal of the internship is to work on improving this micro-service model.
 
 
-### Mission
-
-The intern will be in charge of the following tasks:
-
-- Reviewing state-of-the-art techniques for accessing NVMM through RDMA, and organizing memory accesses in a disaggregated approach
-- Designing a communication protocol to extend ResPCT checkpointing technique to the case where checkpoints are stored on a remote node
-- Extending the approach to deal with the case where multiple nodes sharing the memory of the same remote node
-- Evaluating the proposed solution on our experimental private cloud environment with real hardware, and with representative applications
-
-The programming language used for this project will be C.
 
 ### References
 
-[1] Tsai, Shin-Yeh, Yizhou Shan, and Yiying Zhang. "Disaggregating Persistent Memory and Controlling Them Remotely: An Exploration of Passive Disaggregated {Key-Value} Stores." 2020 USENIX Annual Technical Conference (USENIX ATC 20). 2020.
-
-[2] Kalia, Anuj, David Andersen, and Michael Kaminsky. "Challenges and solutions for fast remote persistent memory access." Proceedings of the 11th ACM Symposium on Cloud Computing. 2020.
-
-[3] Khorguani, Ana, Thomas Ropars, and Noel De Palma. "ResPCT: fast checkpointing in non-volatile memory for multi-threaded applications." Proceedings of the Seventeenth European Conference on Computer Systems. 2022.
+[1] Gan, Yu, et al. "An open-source benchmark suite for microservices and their hardware-software implications for cloud & edge systems." Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems. 2019.
 
 
 ### Location
