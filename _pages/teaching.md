@@ -10,7 +10,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 - [Tutorials about the use of public Cloud platforms](#tutorials-about-the-use-of-public-cloud-platforms)
 - [Principles of Operating Systems and Concurrent Programming](#principles-of-operating-systems-and-concurrent-programming)
-- [Data Management in Large Scale Distributed Systems](#data-management-in-large-scale-distributed-systems)
+- [Distributed Systems](#distributed-systems)
 - [Cloud Computing, from infrastructure to applications](#cloud-computing-from-infrastructure-to-applications)
 - [Distributed Systems for Data Processing](#distributed-systems-for-data-processing)
 - [Systèmes d'Exploitation](#systemes-dexploitation)
