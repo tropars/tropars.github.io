@@ -98,6 +98,9 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Abstractions and failure detectors]({{ site.url }}/downloads/lectures/DS/DS-3-failure_detectors.pdf)
     - [Reliable broadcast]({{ site.url }}/downloads/lectures/DS/DS-4-bcast.pdf)
     - [Session 4 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises.pdf)
+    - [Consensus]({{ site.url }}/downloads/lectures/DS/DS-5-consensus.pdf)
+    - [Session 5 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises.pdf)
+
 
     - [Link to the correction of the exercises](https://cloud.univ-grenoble-alpes.fr/s/j3JwWKdPXonz3dD)
 
