@@ -100,6 +100,7 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Session 4 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises.pdf)
     - [Consensus]({{ site.url }}/downloads/lectures/DS/DS-5-consensus.pdf)
     - [Session 5 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises.pdf)
+    - [Session 6 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-6-exercises.pdf)
 
 
     - [Link to the correction of the exercises](https://cloud.univ-grenoble-alpes.fr/s/j3JwWKdPXonz3dD)
