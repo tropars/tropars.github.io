@@ -115,7 +115,7 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Replication for fault tolerance in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Replication.pdf)
     - [Microservices]({{ site.url }}/downloads/lectures/Cloud/Cloud--Microservices.pdf)
     - [Scaling through partitioning in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Partitioning.pdf)
-
+    - [The Carbon Footprint of Datacenters]({{ site.url }}/downloads/lectures/Cloud/Cloud--Carbon_footprint.pdf)
 
 ### Distributed Systems for Data Processing
 
