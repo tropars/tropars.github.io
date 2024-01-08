@@ -127,50 +127,59 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Systemes d'Exploitation
 
-- 2022-2023
+- 2023-2024
 - L3 MI
 - In French
 
-    - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf)
-    - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf)
-    - [Fichiers et entrées-sorties]({{ site.url }}/downloads/lectures/L3_SE/SE_3_fichiers_es.pdf)
-    - [Redirections et communication inter-processus]({{ site.url }}/downloads/lectures/L3_SE/SE_4_redirections_ipc.pdf)
-    - [Sécurité]({{ site.url }}/downloads/lectures/L3_SE/SE_5_securite.pdf)
+    <!-- - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf) -->
+    <!-- - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf) -->
+    <!-- - [Fichiers et entrées-sorties]({{ site.url }}/downloads/lectures/L3_SE/SE_3_fichiers_es.pdf) -->
+    <!-- - [Redirections et communication inter-processus]({{ site.url }}/downloads/lectures/L3_SE/SE_4_redirections_ipc.pdf) -->
+    <!-- - [Sécurité]({{ site.url }}/downloads/lectures/L3_SE/SE_5_securite.pdf) -->
 
 ### Formation Docker
 
-- 2022-2023
+- 2023-2024
 - M2 GI
 - In French
 
-    - [Docker et Docker Compose]({{ site.url }}/downloads/lectures/Docker/formation_docker.pdf)
-    - [Travaux pratiques](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/docker/)
+    <!-- - [Docker et Docker Compose]({{ site.url }}/downloads/lectures/Docker/formation_docker.pdf) -->
+    <!-- - [Travaux pratiques](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/docker/) -->
 
 ### DevOps
 
-- 2022-2023
+- 2023-2024
 - Master 1
 - In French
 
-    - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf)
-    - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf)
-    - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
-    - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
-    - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf)
-    - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf)
-    - [Workflows Git]({{ site.url }}/downloads/lectures/DevOps/devops_3.1_git_workflows.pdf)
-    - [Revue de code]({{ site.url }}/downloads/lectures/DevOps/devops_3.2_code_review.pdf)
-    - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf)
-    - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf)
-    - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf)
+    <!-- - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf) -->
+    <!-- - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf) -->
+    <!-- - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf) -->
+    <!-- - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf) -->
+    <!-- - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf) -->
+    <!-- - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf) -->
+    <!-- - [Workflows Git]({{ site.url }}/downloads/lectures/DevOps/devops_3.1_git_workflows.pdf) -->
+    <!-- - [Revue de code]({{ site.url }}/downloads/lectures/DevOps/devops_3.2_code_review.pdf) -->
+    <!-- - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) -->
+    <!-- - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf) -->
+    <!-- - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf) -->
 
     <!-- - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) (The following additional notes complement the slides: [Notes sur les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers_notes.pdf)) -->
     <!-- <\!-- - [Les forges]({{ site.url }}/downloads/lectures/DevOps/devops_8_forge.pdf) -\-> -->
     <!-- - [Les numéros de version]({{ site.url }}/downloads/lectures/DevOps/devops_9_version_numbers.pdf) -->
 
+<!-- ### Parallel Algorithms and Programming -->
+
+<!-- - 2022-2023 -->
+<!-- - Master 1 -->
+
+
+## Old Material
+
+
+
 ### Parallel Algorithms and Programming
 
-- 2022-2023
 - Master 1
 
     - [Introduction]({{ site.url
@@ -183,9 +192,9 @@ Please find bellow some of the material I use during my lectures and labs.
       }}/downloads/lectures/PAP/pap_4_openmp.pdf)
     - [Collective operations]({{ site.url
       }}/downloads/lectures/PAP/pap_5_mp_collectives.pdf)
-    <!-- - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf) -->
-    <!-- - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf) -->
-    <!-- - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf) -->
+    - [Introduction to MPI]({{ site.url }}/downloads/lectures/PAP/pap_6_mpi.pdf)
+    - [Distributed-memory algorithms]({{ site.url }}/downloads/lectures/PAP/pap_8_dist_memory_algos.pdf)
+    - [Interconnection networks]({{ site.url }}/downloads/lectures/PAP/pap_7_networks.pdf)
 
     <!-- <\!-- - [Shared-memory algorithms]({{ site.url -\-> -->
     <!-- <\!--   }}/downloads/lectures/PAP/pap_3_shared_memory_algos.pdf) -\-> -->
@@ -201,7 +210,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 <!-- - [Fault tolerance for Parallel Applications]({{ site.url }}/downloads/lectures/PAP/pap_10_ft.pdf) -->
 
-## Old Material
+
 
 
 ### Data Management in Large Scale Distributed Systems (Old Material)
