@@ -14,7 +14,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - [Cloud Computing, from infrastructure to applications](#cloud-computing-from-infrastructure-to-applications)
 - [Distributed Systems for Data Processing](#distributed-systems-for-data-processing)
 - [Systèmes d'Exploitation](#systemes-dexploitation)
-- [Formation Docker](#formation-docker)
+- [Formation Devops (Conteneurisation et Orchestration)](#formation-devops-conteneurisation-et-orchestration)
 - [DevOps](#devops)
 - [Parallel Algorithms and Programming](#parallel-algorithms-and-programming)
 - [Material from the previous years](#old-material)
@@ -138,7 +138,7 @@ Please find bellow some of the material I use during my lectures and labs.
     <!-- - [Sécurité]({{ site.url }}/downloads/lectures/L3_SE/SE_5_securite.pdf) -->
 
 
-### Formation Docker
+### Formation Devops (Conteneurisation et Orchestration)
 
 - 2023-2024
 - M2 GI
