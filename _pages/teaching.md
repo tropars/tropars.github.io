@@ -162,7 +162,7 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf)
     - [Workflows Git]({{ site.url }}/downloads/lectures/DevOps/devops_3.1_git_workflows.pdf)
     - [Revue de code]({{ site.url }}/downloads/lectures/DevOps/devops_3.2_code_review.pdf)
-    <!-- - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) -->
+    - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf)
     <!-- - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf) -->
     <!-- - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf) -->
 
