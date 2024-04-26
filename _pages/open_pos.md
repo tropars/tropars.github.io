@@ -13,7 +13,7 @@ PhD or a Postdoc on topics related to my research interests.
 
 ### Research engineer position
 
-- [Cloud Engineer -- Rethinking Practical Cloud Teaching]({{ site.url }}/downloads/positions/IGR_inge_pedago_uga_v18042024.pdf)
+- [Cloud Engineer -- Rethinking Practical Cloud Teaching]({{ site.url }}/downloads/positions/IGR_cloud_uga.pdf)
 
 
 ### PhD Positions
