@@ -11,6 +11,10 @@ navigation_weight: 6
 Please do not hesitate to contact me if you are interested in doing a
 PhD or a Postdoc on topics related to my research interests.
 
+### Research engineer position
+
+- [Cloud Engineer -- Rethinking Practical Cloud Teaching in the University]({{ site.url }}/downloads/positions/IGR_inge_pedago_uga_v18042024.pdf)
+
 
 ### PhD Positions
 
