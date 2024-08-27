@@ -4,6 +4,13 @@ permalink: /teaching/
 navigation_weight: 3
 ---
 
+## Responsibilities
+
+Since 2024, I am in charge of the **M1 Mosig interntational program**. Please find more resources about this program at the following links:
+
+- [Mosig program website](https://mosig.imag.fr/)
+- [M1 Mosig website](https://m1-mosig.gricad-pages.univ-grenoble-alpes.fr)
+
 ## Teaching
 
 Please find bellow some of the material I use during my lectures and labs.
@@ -18,7 +25,6 @@ Please find bellow some of the material I use during my lectures and labs.
 - [DevOps](#devops)
 - [Parallel Algorithms and Programming](#parallel-algorithms-and-programming)
 - [Material from the previous years](#old-material)
-
 
 ### Tutorials about the use of public Cloud platforms
 
