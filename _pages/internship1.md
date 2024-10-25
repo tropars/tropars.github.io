@@ -1,29 +1,40 @@
-## Improving the carbon footprint of reliable storage in datacenters
+# On the environmental cost of high availability in datacenters
 
 ### Tl;dr
 
 * 2 to 6 months internship position at Univ. Grenoble Alpes (LIG laboratory)
 * M1 or M2 internship
-* Topic: Energy efficiency of fault tolerance techniques in datacenters
-* Goal: Analyze and compare the efficiency of different fault tolerance techniques in datacenters from carbon footprint point of view.
+* Topic: Environmental impact of fault tolerance techniques in datacenters
+* Goal: Study the level of availability that can be guaranteed for cloud applications under a limited carbon budget
 
 ### Context
 
 In the context of global warming, reducing the carbon emissions of computer infrastructures is a top priority. Datacenters are responsible for a large fraction of the carbon emissions of IT. 
 
-To reduce the carbon footprint of datacenters, actions at multiple levels need to be taken. The way of managing and using the hardware should change [1]. However, efforts made only at the hardware level will not be enough to solve the challenges we are facing: software design needs to be made carbon aware [2]. A good example that illustrates the challenges we are facing is reliability and storage. To ensure the availability of data in the Cloud despite crashes, data are replicated on different storage devices. To make data storage more efficient, SSDs can be used instead of HDDs. However, when considering the total carbon footprint, including the carbon emissions required to build the devices, it is not clear anymore than using SSDs is better [3]. To answer this question, many parameters need to be taken into account: The carbon footprint related to the construction of the devices; the energy consumption of the software running on these devices; the quantity of work per energy unit that a software solution running on a given hardware can achieve; the impact of each solution on the other software components in the system, etc.
+Datacenters are at the core of Cloud infrastructures where most online services that we use in our every day life are hosted. Users of these services expect high quality of service [1]. This includes high availability where services should always be ready to answer user requests no matter the failures experienced by the Cloud infrastructure [2]. However, providing such guarantees has a high cost in terms of carbon footprint. Indeed, it mostly rely on different replication techniques that increase the hardware resources required to run services.
 
-Considering the reliable storage of data in datacenters, the goal of this internship is to analyze the carbon footprint of different approaches and, if possible, to propose a new approach that would reduce the carbon emissions.
+As of today, very few work have studied the link between the quality of service provided by such platforms and their carbon footprint [3]. Actually, we think that the situation on the planet requires us to look at the problem from a different angle: given a maximum carbon budget that we can afford, what quality of service can be ensured for an online service?
 
+The goal of this internship is to study the carbon footprint of the fault tolerance strategies used by cloud providers today, to try identifying the strategies that are the best from environmental point of view.
+
+### Mission
+
+The intern will be in charge of the following tasks:
+
+- Studying recent publications and collecting information about the strategies used by cloud provider to increase their quality of service.
+
+- Propose an approach (or several directions) to fault tolerance in the cloud under limited carbon budget
+
+- If possible, deploy different fault tolerance software solution on our private cloud infrastructure to validate experimentally the proposed approach
 
 ### References
 
 
-[1] Tomlinson, Amanda, and George Porter. "Something Old, Something New: Extending the Life of CPUs in Datacenters."
+[1] Mogul and Wilkes. "Nines are not enough: Meaningful metrics for clouds." (2019).
 
-[2] Anderson, Thomas, et al. "Treehouse: A Case For Carbon-Aware Datacenter Software." arXiv preprint arXiv:2201.02120 (2022).
+[2] Garraghan, Yang, et al. "Emergent failures: Rethinking cloud reliability at scale" (2018).
 
-[3] Tannu, Swamit, and Prashant J. Nair. "The Dirty Secret of SSDs: Embodied Carbon." arXiv preprint arXiv:2207.10793 (2022).
+[3] Qiu, Haoran, et al. "When green computing meets performance and resilience SLOs." (2024).
 
 
 ### Location
@@ -33,7 +44,7 @@ Alpes (LIG), one of the largest laboratory in Computer Science in
 France. Univ. Grenoble Alpes is one of the 50 best universities in the
 world for computer science according to international rankings.
 
-More specifically, the intern will work in the ERODS research team, that focus on the efficiency and robustness of distributed systems. ERODS is one of the top system research teams in France and in Europe, with publications in the most selective conferences of the domain.
+More specifically, the intern will work in the KrakOS research team, that focus on the efficiency and robustness of systems. KrakOS is one of the top system research teams in France and in Europe, with publications in the most selective conferences of the domain.
 
 ### Contact
 
