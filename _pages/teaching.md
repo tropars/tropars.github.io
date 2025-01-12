@@ -152,7 +152,7 @@ Please find bellow some of the material I use during my lectures and labs.
 - M2 GI
 - In French
 
-    <!-- - [Page web de la formation](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/m2gi-devops/) -->
+    - [Page web de la formation](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/m2gi-devops/)
 
     <!-- - [Docker et Docker Compose]({{ site.url }}/downloads/lectures/Docker/formation_docker.pdf) -->
     <!-- - [Travaux pratiques](https://roparst.gricad-pages.univ-grenoble-alpes.fr/cloud-tutorials/docker/) -->
