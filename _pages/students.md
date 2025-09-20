@@ -7,7 +7,7 @@ navigation_weight: 5
 
 ## Students and collaborators
 
-- **Ana Khorguani**, PhD student (2020-XXX): -- Doctoral School Grant -- Efficient persistent data management for Non-Volatile Memory servers
+
   
 <br>
 
@@ -17,6 +17,8 @@ navigation_weight: 5
 
 
 #### PhD students
+
+- **Ana Khorguani**, PhD student (2020-2023): -- Doctoral School Grant -- Efficient persistent data management for Non-Volatile Memory servers
 
 - **Marc Platini**, PhD student (2017-2020): -- CIFRE ATOS --
   Predictive maintenance techniques for supercomputers (co-advised

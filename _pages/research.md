@@ -9,8 +9,16 @@ navigation_weight: 4
 My work focuses on algorithms for distributed and parallel systems
 with a special focus on scalability and resilience issues.
 
+More recently, my research work tries to address issues related to the
+environmental impact of large scale computer infrastructures.
+
 
 ### Current Projects
+
+
+- **STEEL: Secure and efficient daTa storagE and procEssing on cLoud-based infrastructures** -- ANR Project, part of the PEPR Cloud ([https://pepr-cloud.fr/](https://pepr-cloud.fr/)) (2023-2028)
+- **E2CC-Platfrom: Eco Edge to Cloud Continuum** -- European project, part of IPCEI Next Generation Cloud Infrastructure and Services ([https://e2cc.eu/](https://e2cc.eu/)) (2024-2029)
+- **AMI CMA LaTêteDansLesNuages@UGA** -- Education project (2024-2028)
 
 
 <br>
