@@ -7,7 +7,9 @@ navigation_weight: 5
 
 ## Students and collaborators
 
+- **Ivane Adam**, PhD student (2023-2026): -- Founded by STEEL project -- Memory abstraction in disaggregated datacenters: Efficiency and relliability. 
 
+- **Gabriel Job Antunes Grabher**, PhD student (2022-2025): -- Founded by Twin4FT project -- Towards self-healing distributed systems with digital twins.
   
 <br>
 
