@@ -12,6 +12,10 @@ For a complete list of my publications, please visit my academic profile on
 
 ### Some recent publications
 
+
+- CCGrid'25: J. Nibler and T. Ropars. **Carbon Footprint of Storage in Data Centers: The
+Impact of using SSDs for Key-Value Stores**. *IEEE International Symposium on Cluster, Cloud, and Internet Computing*, 2025. [pdf]({{ site.url }}/downloads/pdf/publications/ccgrid2025-NR-SSD_Carbon.pdf)
+
 - EuroSys'22: A. Khorguani, T. Ropars, N. De Palma. **ResPCT: Fast Checkpointing in Non-volatile Memory for Multi-threaded Applications**. *EuroSys*, 2022. [pdf]({{ site.url }}/downloads/pdf/publications/eurosys2022-KRD-ResPCT.pdf)
 
 - ICDCN'21: M. Platini, T. Ropars, B. Pelletier, N. De Palma. **LogFlow: Simplified Log Analysis for Large Scale Systems**. *22nd International Conference on Distributed Computing and Networking*, 2021. [pdf]({{ site.url
