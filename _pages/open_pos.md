@@ -13,8 +13,9 @@ PhD or a Postdoc on topics related to my research interests.
 
 ### Research engineer position
 
-- [Cloud Engineer -- Rethinking Practical Cloud Teaching]({{ site.url }}/downloads/positions/IGR_cloud_uga.pdf)
+<!-- - [Cloud Engineer -- Rethinking Practical Cloud Teaching]({{ site.url }}/downloads/positions/IGR_cloud_uga.pdf) -->
 
+No funded position at the moment
 
 ### PhD Positions
 
@@ -30,10 +31,17 @@ No funded position at the moment.
 
 <!-- - [Performance of concurrent algorithms: a carbon footprint perspective]({{ site.url }}/_pages/internship3.html) -->
 
-- [On the environmental cost of high availability in datacenters]({{ site.url }}/_pages/internship1.html)
+<!-- - [On the environmental cost of high availability in datacenters]({{ site.url }}/_pages/internship1.html) -->
 
-- [Improving the carbon footprint of reliable storage in datacenters]({{ site.url }}/_pages/internship2.html)
+<!-- - [Improving the carbon footprint of reliable storage in datacenters]({{ site.url }}/_pages/internship2.html) -->
 
+
+
+- Improving the performance of disaggregated persistent memory using on-chip DMA (Description coming soon)
+
+- Carbon footprint of erasure coding for storing data on SSDs (Description coming soon)
+
+- On the carbon footprint of blob storage (Description coming soon)
 
 
 <!-- List of current internship offers (contact me for additional information): -->
