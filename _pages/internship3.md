@@ -1,39 +1,31 @@
-## Performance of concurrent algorithms: a carbon footprint perspective
+## Improving the performance of disaggregated persistent memory using on-chip DMA
 
-### Tl;dr
+Reliability is a major concern in data centers. Non-volatile main memory (NVMM) is a new technology that can be used instead of DRAM but ensures the persistence of data even after a crash. Recently, several techniques have been proposed to use NVMM to build efficient fault tolerant systems [1]. These techniques assume that NVMM is available locally on the server where the application runs.
 
-* 2 to 6 months internship position at Univ. Grenoble Alpes (LIG laboratory)
-* M1 or M2 internship
-* Topic: Performance of concurrent algorithms
-* Goal: Analyzing the carbon footprint of concurrent algorithms
+With the raise of disaggregation, this assumption might not hold anymore. In a disaggregated data center, some nodes host the computing resources while other nodes host the storage resources [2]. The storage nodes can include a lot of memory but little computing power.
 
-### Context
+In our team, we design solutions to use NVMM for fault tolerance in a disaggregated data center. This implies that we want to be able to copy the state of an application in a remote server, while using as little computing resource as possible on the remote server. To do so, we use the RDMA capabilities of modern network card to be able write into the memory of a remote server without the help of the remote CPU. However, to ensure data consistency even if a crash occurs in the middle of the saving operation, data need to be copied to remote NVMM in multiple steps. These multiple steps incur additional costs.
 
-In the context of global warming, reducing the carbon emissions of computer infrastructures is a top priority. Some improvements will come from the hardware, but improvements at the software level are also required [1]. 
+It has recently been demonstrated that on-chip DMA can be used to improve the performance of data transfers to NVMM [3]. On-chip DMAs can be used to transfer data to/from memory without intervention from the CPU. The goal of the internship is to study how such a solution could be used to improve the performance and reduce the CPU consumption of our solution to save data in remote NVMM.
 
-Concurrent algorithms are at the core of computer software today as their purpose is to allow applications to take advantage of multi-core processors. For ubiquitous concurrent data structures such as queues, lists, or hash tables, a large number of implementations exists. These implementations have been extensively studied considering classical performance metrics such as throughput [2]. We would like to look at concurrent algorithms from another perspective: their carbon footprint.
-
-To be able to analyze the carbon footprint of concurrent algorithms, we first need to identify the data that we need to collect to be able to estimate the carbon footprint. Multiple components in the system might need to be monitored including the processor and the memory [3]. Then, a methodology needs to be developed to collect the data. Modern hardware implement performance counters that allow obtaining precise information about the activity of the system. We have already developed tools to collect such counters, but they might need to be extended for the need of this study. Finally experiments and analysis will have to be conducted to understand what characteristics of concurrent algorithms make them more carbon-footprint efficient. 
 
 ### Mission
 
 The intern will be in charge of the following tasks:
 
-- Study recent publications to understand how the carbon footprint of concurrent algorithms should be measured
+- Studying recent publications related to DMA and understand how DMA can be used for data transfer.
 
-- Define and implement a methodology to evaluate the carbon footprint of concurrent algorithms
+- Design a solution to use DMA to improve the performance of saving data in Remote Persistent Memory
 
-- Conduct experiments and compare results obtained on different hardware
-
-To run experiments, the intern will get access to a large set of servers with different processor architectures
+- Implement the solution and evaluate its performance with real applications on our private cloud platform
 
 ### References
 
-[1] Anderson, Thomas, et al. "Treehouse: A Case For Carbon-Aware Datacenter Software." arXiv preprint arXiv:2201.02120 (2022).
+[1] A. Khorguani et al. *Respct: fast checkpointing in non-volatile memory for multi-threaded applications*. Proceedings of the Seventeenth European Conference on Computer Systems. 2022.
 
-[2] Gramoli, Vincent. "More than you ever wanted to know about synchronization: Synchrobench, measuring the impact of the synchronization on concurrent algorithms." Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming. 2015.
+[2] M. Aguilera et al. *Memory disaggregation: why now and what are the challenges.* ACM SIGOPS Operating Systems Review (2023).
 
-[3] Köhler, Sven, et al. "Carbon-Aware Memory Placement." Proceedings of the 2nd Workshop on Sustainable Computer Systems. 2023.
+[3] J. Su et al. *Revitalizing the Forgotten On-Chip DMA to Expedite Data Movement in NVM-based Storage Systems*. 21st USENIX Conference on File and Storage Technologies (FAST 23). 2023.
 
 
 ### Location

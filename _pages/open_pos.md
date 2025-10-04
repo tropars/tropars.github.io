@@ -37,11 +37,11 @@ No funded position at the moment.
 
 
 
-- Improving the performance of disaggregated persistent memory using on-chip DMA (Description coming soon)
+- [Improving the performance of disaggregated persistent memory using on-chip DMA]({{ site.url }}/_pages/internship1.html)
 
-- Carbon footprint of erasure coding for storing data on SSDs (Description coming soon)
+- [Carbon footprint of erasure coding for storing data on SSDs]({{ site.url }}/_pages/internship2.html)
 
-- On the carbon footprint of blob storage (Description coming soon)
+- [On the carbon footprint of blob storage]({{ site.url }}/_pages/internship3.html)
 
 
 <!-- List of current internship offers (contact me for additional information): -->

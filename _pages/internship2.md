@@ -1,39 +1,31 @@
-## Improving the carbon footprint of reliable storage in datacenters
+## Carbon footprint of erasure coding for storing data on SSDs 
 
-### Tl;dr
+In the context of global warming, reducing the carbon emissions of computer systems is a top priority. Data centers are responsible for a large fraction of the carbon emissions of IT. 
 
-* 2 to 6 months internship position at Univ. Grenoble Alpes (LIG laboratory)
-* M1 or M2 internship
-* Topic: Carbon footprint of reliable storage techniques in datacenters
-* Goal: Estimate the carbon footprint of different software techniques used to store data reliably
+Storage is a significant contributor to the carbon footprint of data centers [1]. To ensured that data remains available despite crashes RAID techniques are widely used [2]. Replicating data in multiple devises has a cost that can be reduced by using erasure codes [3] with technique such as RAID 5 or Raid 6. However, when considering as main objective the reduction of the carbon footprint of storage, it is unclear whether coding techniques are beneficial: It reduces the storage space but increases the CPU usage.
 
-### Context
+The goal of this internship is to study under which conditions erasure coding techniques can be beneficial to reduce the carbon footprint of storage when storing data on SSDs.
 
-In the context of global warming, reducing the carbon emissions of computer infrastructures is a top priority. Datacenters are responsible for a large fraction of the carbon emissions of IT. 
-
-To reduce the carbon footprint of datacenters, actions at multiple levels need to be taken. The way of managing and using the hardware should change [1]. However, efforts made only at the hardware level will not be enough to solve the challenges we are facing: software design needs to be made carbon aware [2]. A good example that illustrates the challenges we are facing is reliability and storage. To ensure the availability of data in the Cloud despite crashes, data are replicated on different storage devices. Encoding techniques can also be used as a means to reduce the storage capacity used for fault tolerance [3]. These techniques have different advantages and drawbacks but have not yet been analyzed from the point of view carbon footprint. From this point of view it is difficult to identify a priori a solution that is better than the others: Some solutions use more storage space and less computing resources, while it is the opposite for others, and it is difficult to know what is best.
-
-Considering the reliable storage of data in datacenters, the goal of this internship is to analyze the carbon footprint of different approaches and, if possible, to propose a new approach that would reduce the carbon emissions.
 
 ### Mission
 
 The intern will be in charge of the following tasks:
 
-- Studying recent publications and collecting information about the carbon footprint of current storage systems.
+- Studying recent publications and collecting information about erasure coding techniques for SSDs.
 
-- Running experimental campaigns on our large-scale private Cloud platform, to analyze the energy/performance trade-off provided by different software solutions for the reliable storage of data.
+- Running experimental campaigns on our large-scale private Cloud platform, to analyze the energy/performance trade-off provided by different erasure coding techniques. Our platform is instrumented to be able to measure precisely the energy consumed by storage devices.
 
-- Analyzing the results to propose a strategy to reduce the carbon footprint of reliable storage approaches
+- Analyzing the results to provide recommendations about how to minimize the carbon footprint of reliable storage.
 
 
 ### References
 
 
-[1] Tomlinson, Amanda, and George Porter. "Something Old, Something New: Extending the Life of CPUs in Datacenters."
+[1] S. McAllister et al., *A call for research on storage emissions*. In Proceedings of the 3rd Workshop on Sustainable Computer Systems (HotCarbon), 2024.
 
-[2] Anderson, Thomas, et al. "Treehouse: A Case For Carbon-Aware Datacenter Software." arXiv preprint arXiv:2201.02120 (2022).
+[2] A. Kim et al. *Morph: Efficient File-Lifetime Redundancy Management for Cluster File Systems*. Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles. 2024.
 
-[3] Kim, Athlur, et al. "Morph: Efficient File-Lifetime Redundancy Management for Cluster File Systems" (2024)
+[3] Z. Li et al. *Flash-oriented Coded Storage: Research Status and Future Directions*. ACM Transactions on Storage (2024).
 
 
 ### Location
