@@ -41,7 +41,7 @@ No funded position at the moment.
 
 - [Carbon footprint of erasure coding for storing data on SSDs]({{ site.url }}/_pages/internship2.html)
 
-- [On the carbon footprint of blob storage]({{ site.url }}/_pages/internship1.html)
+- [On the carbon footprint of Cloud blob storage]({{ site.url }}/_pages/internship1.html)
 
 
 <!-- List of current internship offers (contact me for additional information): -->
