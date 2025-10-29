@@ -13,6 +13,8 @@ PhD or a Postdoc on topics related to my research interests.
 
 ### Research engineer position
 
+- [Optimizing the detection of performance problems in Edge and Cloud platform (E2CC european project)]({{ site.url }}/_pages/e2cc_engineer.html)
+
 <!-- - [Cloud Engineer -- Rethinking Practical Cloud Teaching]({{ site.url }}/downloads/positions/IGR_cloud_uga.pdf) -->
 
 No funded position at the moment
