@@ -1,4 +1,6 @@
-# Research Engineer: Developing techniques for anomaly detection at scale in Cloud-Edge platforms
+# Research Engineer Position
+
+## Developing techniques for anomaly detection at scale in Cloud-Edge platforms
 
 ### Context
 
