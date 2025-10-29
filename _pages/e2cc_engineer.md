@@ -1,30 +1,17 @@
 # Research Engineer: Developing techniques for anomaly detection at scale in Cloud-Edge platforms
 
-## Context
+### Context
 
-Our team is involved in the  [E2CC European
-project](https://e2cc.eu/). The goal of the project is to develop
-standardized Edge-to-Cloud platform that ensures interoperability,
-portability, and cybersecurity.
+Our team is involved in the [E2CC European project](https://e2cc.eu/). The goal of the project is to develop a standardized Edge-to-Cloud platform that ensures interoperability, portability, and cybersecurity.
 
-The project builds a hardware and a software stack for future
-Edge-to-Cloud platforms. The core of the project is the development
-of an orchestrator that simplifies the deployment and execution of
-Edge applications, while minimizing energy consumption.
+The project builds a hardware and a software stack for future Edge-to-Cloud platforms. The core of the project is the development of an orchestrator that simplifies the deployment and execution of Edge applications, while minimizing energy consumption.
 
-The E2CC project includes 14 academic and industrial partners. It is
-part of the [8ra European Initiative](https://www.8ra.com/), that aims
-at driving the development of a sovereign, interoperable, and secure
-Multi-Provider Cloud-Edge Continuum.
+The E2CC project includes 14 academic and industrial partners. It is part of the [8ra European Initiative](https://www.8ra.com/), that aims at driving the development of a sovereign, interoperable, and secure Multi-Provider Cloud-Edge Continuum.
 
 
-## Objective
+### Objective
 
-In the E2CC project, our team is in charge of developing techniques to
-detect anomalies in Edge-to-Cloud platforms. By anomaly, we typically
-refer to performance issues due to hardware or software faults
-(defects, crash, bugs, missconfigurations, etc). These techniques
-should be integrated into the E2CC orchestrator.
+In the E2CC project, our team is in charge of developing techniques to detect anomalies in Edge-to-Cloud platforms. By anomaly, we typically refer to performance issues due to hardware or software faults (defects, crashes, bugs, missconfigurations, etc). These techniques should be integrated into the E2CC orchestrator.
 
 More specifically, we have 2 main objectives:
 - Designing anomaly detection techniques that can take advantage of different sources of monitoring data (hardware, operating systems, applications) to make accurate detection
@@ -32,7 +19,7 @@ More specifically, we have 2 main objectives:
 
 To this end, we want to take advantage of advanced machine learning techniques, and more specifically, on unsupervised learning techniques such as variational autoencoders.
 
-## Mission
+### Mission
 
 The recruited engineer will contribute to the following tasks:
 - Design and build software solutions for anomaly detection in Edge-to-Cloud platforms
@@ -44,10 +31,7 @@ The recruited engineer will contribute to the following tasks:
 
 ### Location
 
-The engineer will join the Informatics Laboratory of Univ. Grenoble
-Alpes, one of the largest Computer Science laboratory in
-France. He/she will work in the [KrakOs](https://lig-krakos.imag.fr/)
-research team. KrakOs is a joint team between UGA and Inria.
+The engineer will join the Informatics Laboratory of Univ. Grenoble Alpes, one of the largest Computer Science laboratory in France. He/she will work in the [KrakOs research team](https://lig-krakos.imag.fr/). KrakOs is a joint team between UGA and Inria.
 
 ### Job information
 
