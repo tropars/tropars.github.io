@@ -165,10 +165,10 @@ Please find bellow some of the material I use during my lectures and labs.
 - Master 1
 - In French
 
-    <!-- - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf) -->
-    <!-- <\!-- - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf) -\-> -->
-    <!-- - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf) -->
-    <!-- - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf) -->
+    - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf)
+    <!-- - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf) -->
+    - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
+    - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
     <!-- - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf) -->
     <!-- - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf) -->
     <!-- - [Workflows Git]({{ site.url }}/downloads/lectures/DevOps/devops_3.1_git_workflows.pdf) -->
