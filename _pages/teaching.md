@@ -36,7 +36,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Principles of Operating Systems and Concurrent Programming
 
-- 2025-2026
+- 2026-2027
 - Master 1
 
   <!-- - [Thread Synchronization Primitives]({{ site.url }}/downloads/lectures/M1_OS/lecture_11--Thread_synchro_primitives.pdf) -->
@@ -96,7 +96,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Distributed Systems
 
-- 2025-2026
+- 2026-2027
 - Master 2
 
     - [Introduction]({{ site.url }}/downloads/lectures/DS/DS-0-introduction.pdf)
@@ -104,14 +104,15 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Session 1 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-1-exercises.pdf)
     - [Logical time]({{ site.url }}/downloads/lectures/DS/DS-2-time.pdf)
     - [Session 2 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-2-exercises.pdf)
-    - [Abstractions and failure detectors]({{ site.url }}/downloads/lectures/DS/DS-3-failure_detectors.pdf)
-    - [Session 3 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-3-exercises.pdf)
-    - [Reliable broadcast]({{ site.url }}/downloads/lectures/DS/DS-4-bcast.pdf)
-    - [Session 4 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises.pdf)
-    - [Session 4 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises-more.pdf)
-    - [Consensus]({{ site.url }}/downloads/lectures/DS/DS-5-consensus.pdf)
-    - [Session 5 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises.pdf)
-    - [Session 5 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises-more.pdf)
+    <!-- - [Abstractions and failure detectors]({{ site.url }}/downloads/lectures/DS/DS-3-failure_detectors.pdf) -->
+    <!-- - [Session 3 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-3-exercises.pdf) -->
+    <!-- - [Reliable broadcast]({{ site.url }}/downloads/lectures/DS/DS-4-bcast.pdf) -->
+    <!-- - [Session 4 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises.pdf) -->
+    <!-- - [Session 4 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises-more.pdf) -->
+    <!-- - [Consensus]({{ site.url }}/downloads/lectures/DS/DS-5-consensus.pdf) -->
+    <!-- - [Session 5 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises.pdf) -->
+    <!-- - [Session 5 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises-more.pdf) -->
+
     <!-- - [Atomic broadcast]({{ site.url }}/downloads/lectures/DS/DS-6-atomic_broadcast.pdf) -->
     <!-- - [Session 7 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-7-exercises.pdf) -->
 
@@ -119,7 +120,7 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Cloud Computing, from infrastructure to applications
 
-- 2025-2026
+- 2026-2027
 - Master 2
 
     <!-- - [Failures in the Cloud]({{ site.url }}/downloads/lectures/Cloud/Cloud--Failures.pdf) -->
@@ -138,19 +139,19 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### Systemes d'Exploitation
 
-- 2025-2026
+- 2026-2027
 - L3 MI
 - In French
 
-    - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf)
-    - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf)
-    - [Fichiers et entrées-sorties]({{ site.url }}/downloads/lectures/L3_SE/SE_3_fichiers_es.pdf)
-    - [Redirections et communication inter-processus]({{ site.url }}/downloads/lectures/L3_SE/SE_4_redirections_ipc.pdf)
-    - [Sécurité]({{ site.url }}/downloads/lectures/L3_SE/SE_5_securite.pdf)
+    <!-- - [Introduction]({{ site.url }}/downloads/lectures/L3_SE/SE_1_intro.pdf) -->
+    <!-- - [Les processus]({{ site.url }}/downloads/lectures/L3_SE/SE_2_processus.pdf) -->
+    <!-- - [Fichiers et entrées-sorties]({{ site.url }}/downloads/lectures/L3_SE/SE_3_fichiers_es.pdf) -->
+    <!-- - [Redirections et communication inter-processus]({{ site.url }}/downloads/lectures/L3_SE/SE_4_redirections_ipc.pdf) -->
+    <!-- - [Sécurité]({{ site.url }}/downloads/lectures/L3_SE/SE_5_securite.pdf) -->
 
 ### Formation Devops (Conteneurisation et Orchestration)
 
-- 2025-2026
+- 2026-2027
 - M2 GI
 - In French
 
@@ -161,21 +162,21 @@ Please find bellow some of the material I use during my lectures and labs.
 
 ### DevOps
 
-- 2025-2026
+- 2026-2027
 - Master 1
 - In French
 
-    - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf)
-    <!-- - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf) -->
-    - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf)
-    - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf)
-    - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf)
-    - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf)
-    - [Workflows Git]({{ site.url }}/downloads/lectures/DevOps/devops_3.1_git_workflows.pdf)
-    - [Revue de code]({{ site.url }}/downloads/lectures/DevOps/devops_3.2_code_review.pdf)
-    - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf)
-    - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf)
-    - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf)
+    <!-- - [Introduction]({{ site.url }}/downloads/lectures/DevOps/devops_1_introduction.pdf) -->
+    <!-- <\!-- - [Deboguer]({{ site.url}}/downloads/lectures/DevOps/devops_2_deboguer.pdf) -\-> -->
+    <!-- - [Introduction à Git]({{ site.url }}/downloads/lectures/DevOps/devops_3_git.pdf) -->
+    <!-- - [Les Builders]({{ site.url }}/downloads/lectures/DevOps/devops_4_builders.pdf) -->
+    <!-- - [Junit]({{ site.url }}/downloads/lectures/DevOps/devops_5_junit.pdf) -->
+    <!-- - [Couverture de code]({{ site.url }}/downloads/lectures/DevOps/devops_7_couverture.pdf) -->
+    <!-- - [Workflows Git]({{ site.url }}/downloads/lectures/DevOps/devops_3.1_git_workflows.pdf) -->
+    <!-- - [Revue de code]({{ site.url }}/downloads/lectures/DevOps/devops_3.2_code_review.pdf) -->
+    <!-- - [Maven]({{ site.url }}/downloads/lectures/DevOps/devops_10_maven.pdf) -->
+    <!-- - [Intégration continue]({{ site.url }}/downloads/lectures/DevOps/devops_11_Integration_Continue.pdf) -->
+    <!-- - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) -->
 
 
     <!-- - [Les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers.pdf) (The following additional notes complement the slides: [Notes sur les conteneurs]({{ site.url }}/downloads/lectures/DevOps/devops_6_containers_notes.pdf)) -->
