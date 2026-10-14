@@ -49,7 +49,9 @@ Alpes (LIG), one of the largest laboratory in Computer Science in
 France. Univ. Grenoble Alpes is one of the 50 best universities in the
 world for computer science according to international rankings.
 
-More specifically, the intern will work in the ERODS research team, that focus on the efficiency and robustness of distributed systems. ERODS is one of the top system research teams in France and in Europe, with publications in the most selective conferences of the domain.
+More specifically, the intern will work in the KrakOS research team, that focus on the efficiency and robustness of systems. KrakOS is one of the top system research teams in France and in Europe, with publications in the most selective conferences of the domain.
+
+
 
 ### Contact
 
