@@ -1,31 +1,45 @@
-## Improving the performance of disaggregated persistent memory using on-chip DMA
+## Using NVMe-over-Fabrics for efficient data storage in disaggregated datacenters
 
-Reliability is a major concern in data centers. Non-volatile main memory (NVMM) is a new technology that can be used instead of DRAM but ensures the persistence of data even after a crash. Recently, several techniques have been proposed to use NVMM to build efficient fault tolerant systems [1]. These techniques assume that NVMM is available locally on the server where the application runs.
+### Context
 
-With the raise of disaggregation, this assumption might not hold anymore. In a disaggregated data center, some nodes host the computing resources while other nodes host the storage resources [2]. The storage nodes can include a lot of memory but little computing power.
+The architecture of datacenters evolves. To improve resource usage, disaggregated infrastructures are explored [1]. In these infrastructures, some servers host the computing resources while other servers are dedicated to storage. Solutions allowing to transfer data efficiently between the two types of nodes are required. This is challenging because for a disaggregated infrastructure to provide advantages, storage severs should only include processors with limited computing power.
 
-In our team, we design solutions to use NVMM for fault tolerance in a disaggregated data center. This implies that we want to be able to copy the state of an application in a remote server, while using as little computing resource as possible on the remote server. To do so, we use the RDMA capabilities of modern network card to be able write into the memory of a remote server without the help of the remote CPU. However, to ensure data consistency even if a crash occurs in the middle of the saving operation, data need to be copied to remote NVMM in multiple steps. These multiple steps incur additional costs.
+NVMe SSD disks are more and more used in datacenters because of the performance advantage they provide. When used together with a high-performance network, they allow implementing NVMe-over-Fabrics (NVMe-oF) techniques, where a NVMe disk is accessed remotely as if it was part of the computing server.
 
-It has recently been demonstrated that on-chip DMA can be used to improve the performance of data transfers to NVMM [3]. On-chip DMAs can be used to transfer data to/from memory without intervention from the CPU. The goal of the internship is to study how such a solution could be used to improve the performance and reduce the CPU consumption of our solution to save data in remote NVMM.
+Several solutions have been proposed to implement NVMe-oF [2,3]. Existing solutions offer different trade-offs between performance, resource consumption, and energy consumption. Furthermore, additional challenges related to the fault tolerance of the proposed solution appear, when implementing a disaggregated version of a storage service [4].
 
 
 ### Mission
 
-The intern will be in charge of the following tasks:
+In this internship, we would like to study the use of NVMe-oF to implement a reliable storage service for disaggregated datacenters, while studying the trade-off between 3 metrics: performance, resource usage, and energy consumption.
 
-- Studying recent publications related to DMA and understand how DMA can be used for data transfer.
+To this end, the intern will work on the following tasks:
 
-- Design a solution to use DMA to improve the performance of saving data in Remote Persistent Memory
+- Analyzing existing NVMe-oF through a bibliographic review and through experiments on real hardware. The goal of this analysis will be twofold: i) Understanding the reliability guarantees offered by existing solutions; ii) evaluating their performance and resource consumption
 
-- Implement the solution and evaluate its performance with real applications on our private cloud platform
+- Based on the outputs of this first phase, the intern will then design a reliable storage solution for disaggregated datacenters, providing a standard key-value interface, with the goal of optimizing the trade-off between the 3 metrics
+
+- If needed, the intern will have the opportunity to propose new optimizations to existing NVMe-oF to obtain a more efficient storage solution
+
+
+For this work, the intern will get access to real hardware for running experiments through the Grid'5000 national testbed.
+
+
+
+
 
 ### References
 
-[1] A. Khorguani et al. *Respct: fast checkpointing in non-volatile memory for multi-threaded applications*. Proceedings of the Seventeenth European Conference on Computer Systems. 2022.
+[1] Marcos K. Aguilera, Emmanuel Amaro, Nadav Amit, Erika Hunhoff, Anil Yelam, and Gerd Zellweger. 2023. Memory disaggregation: why now and what are the challenges. SIGOPS Oper. Syst. Rev. 57, 1 (June 2023), 38–46.
 
-[2] M. Aguilera et al. *Memory disaggregation: why now and what are the challenges.* ACM SIGOPS Operating Systems Review (2023).
+[2] Yang, Ziye, et al. "SPDK: A development kit to build high performance storage applications." 2017 IEEE International Conference on Cloud Computing Technology and Science (CloudCom). IEEE, 2017.
 
-[3] J. Su et al. *Revitalizing the Forgotten On-Chip DMA to Expedite Data Movement in NVM-based Storage Systems*. 21st USENIX Conference on File and Storage Technologies (FAST 23). 2023.
+[3] Endian Li, Shushu Yi, Li Peng, Qiao Li, Diyu Zhou, Zhenlin Wang, Xiaolin Wang et al. "SPDK+: Low Latency or High Power Efficiency? We Take Both." In Proceedings of the 17th ACM Workshop on Hot Topics in Storage and File Systems, pp. 17-23. 2025.
+
+[4] Siying Dong, Shiva Shankar P, Satadru Pan, Anand Ananthabhotla, Dhanabal Ekambaram, Abhinav Sharma, Shobhit Dayal et al. "Disaggregating rocksdb: A production experience." Proceedings of the ACM on Management of Data 1, no. 2 (2023): 1-24.
+
+
+
 
 
 ### Location

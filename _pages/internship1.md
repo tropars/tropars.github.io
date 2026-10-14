@@ -1,21 +1,21 @@
-## On the carbon footprint of blob storage
+## On the carbon footprint of fault-tolerant storage in the cloud
 
 In the context of global warming, reducing the carbon emissions of computer systems is a top priority. Data centers are responsible for a large fraction of the carbon emissions of IT. 
 
-Storage is a significant contributor to the carbon footprint of data centers [1]. In a recent study, we have shown that the best type of storage (HDD vs SSD) when trying to minimize the carbon footprint is not necessarily SSDs [2]. The study was considering the case of key-value stores and showed that the answer is less obvious that it might look at first sight. Depending on the data access patterns, HDDs can be better than SSDs. The goal of this internship is to extend the study to the case of Blob storage.
+Storage is a significant contributor to the carbon footprint of data centers [1]. To ensure the availability of data despite hardware failures, cloud providers employ replication techniques, sometimes at multiple levels (intra-datacenter and cross-datacenter replication [2]). But replication amplifies resource usage and therefore increases carbon footprint. Some techniques, such as erasure coding techniques [3] and advanced RAID techniques [4], can help reducing the storage footprint of replication at the cost of a performance decrease. However, slowing-down applications can also be prejudicial to the overall carbon footprint of the system.
 
-Blob storage is one of the main types of storage used in Datacenter/Cloud environments [3]. it is used to store large binary files such as photos and videos. Hence, the data access pattern is very different from key-value stores.
+The goal of this internship is to study and compare replications techniques for reliable data storage in datacenters, to understand and optimize the trade-off between performance and carbon footprint.
 
 
 ### Mission
 
 The intern will be in charge of the following tasks:
 
-- Studying recent publications and collecting information about blob storage systems in Cloud environments
+- Studying recent publications and collecting information about replication techniques in Cloud storage systems
 
-- Running experimental campaigns on our large-scale private Cloud platform, to analyze the energy/performance trade-off provided by different storage technologies for blob storage. Our platform is instrumented to be able to measure precisely the energy consumed by storage devices.
+- Running experimental campaigns on our large-scale private Cloud platform, to analyze the energy/storage footprint/performance trade-off provided by different reliable storage techniques. Our platform is instrumented to be able to measure precisely the energy consumed by storage devices.
 
-- Analyzing the results and propose strategies to reduce the carbon footprint of blob storage.
+- Analyzing the results and propose strategies to reduce the carbon footprint of cloud storage.
 
 
 ### References
@@ -23,9 +23,13 @@ The intern will be in charge of the following tasks:
 
 [1] S. McAllister et al., *A call for research on storage emissions*. In Proceedings of the 3rd Workshop on Sustainable Computer Systems (HotCarbon), 2024.
 
-[2] J. Nibler and T. Ropars, *Carbon Footprint of Storage in Data Centers: the Impact of Using Ssds for Key-Value Stores*. In 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+[2] S. Noghabi et al., “Ambry: Linkedin’s scalable geo-distributed object store,” in Proceedings of the 2016 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2016, pp. 253–265.
 
-[3] S. Satija et al. *Cloudscape: A Study of Storage Services in Modern Cloud Architectures*. In 23rd USENIX Conference on File and Storage Technologies (FAST 25). 2025.
+[3] S. Muralidhar et al., “F4: Facebook’s warm blob storage system,” in Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2014, pp. 383–398.
+
+[4] Zhiyue Li, et al. "Flash-oriented coded storage: Research status and future directions". ACM Transactions on Storage, 2025
+
+
 
 
 ### Location

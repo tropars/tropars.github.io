@@ -1,31 +1,34 @@
-## Carbon footprint of erasure coding for storing data on SSDs 
+## Impact of the processor family on the energy consumption of Cloud applications
 
-In the context of global warming, reducing the carbon emissions of computer systems is a top priority. Data centers are responsible for a large fraction of the carbon emissions of IT. 
 
-Storage is a significant contributor to the carbon footprint of data centers [1]. To ensured that data remains available despite crashes RAID techniques are widely used [2]. Replicating data in multiple devises has a cost that can be reduced by using erasure codes [3] with technique such as RAID 5 or Raid 6. However, when considering as main objective the reduction of the carbon footprint of storage, it is unclear whether coding techniques are beneficial: It reduces the storage space but increases the CPU usage.
+In the context of global warming, reducing the carbon emissions of computer systems is a top priority. Data centers are responsible for a large fraction of the carbon emissions of IT. The carbon footprint of cloud applications is amplified by all the replication techniques used to ensure availability despite hardware failures [1]. 
 
-The goal of this internship is to study under which conditions erasure coding techniques can be beneficial to reduce the carbon footprint of storage when storing data on SSDs.
+Our research team works on assessing the impact of these availability techniques. To this end, we need to measure precisely the energy consumption of applications. This is not as simple as it might look at first sight, especially when multiple applications are co-hosted on the same physical server [2]. 
 
+In this study, we would like to consider different hardware architectures for the servers and more specifically, multiple processors families (Intel, AMD, ARM), as hardware architectures can have a significant impact on the way applications consume energy [3]. 
+
+The goal of this internship is to study how different processor families impact the energy consumption of applications running in shared cloud infrastructures. The results will be used to analyze the carbon footprint of highly available cloud applications
 
 ### Mission
 
 The intern will be in charge of the following tasks:
 
-- Studying recent publications and collecting information about erasure coding techniques for SSDs.
+- Through a literature review and experiments, study how energy consumption can be measured on different processor families, and how processors can be configured to reduce their energy consumption
 
-- Running experimental campaigns on our large-scale private Cloud platform, to analyze the energy/performance trade-off provided by different erasure coding techniques. Our platform is instrumented to be able to measure precisely the energy consumed by storage devices.
+- Run an extensive experimental campaign to collect data about the energy consumption of cloud applications on different processors
 
-- Analyzing the results to provide recommendations about how to minimize the carbon footprint of reliable storage.
-
+- Use these data to analyze the carbon footprint of Cloud applications
 
 ### References
 
+[1] Diptyaroop Maji, Walid A Hanafy, Li Wu, David Irwin, Prashant Shenoy, and Ramesh K Sitaraman. 2025. Data Centers Carbon Emissions at Crossroads: An Empirical Study. ACM SIGENERGY Energy Informatics Review 5, 2 (2025), 48–55. 
 
-[1] S. McAllister et al., *A call for research on storage emissions*. In Proceedings of the 3rd Workshop on Sustainable Computer Systems (HotCarbon), 2024.
+[2] Ian Schneider and Taylor Mattia. 2024. Carbon accounting in the Cloud: a methodology for allocating emissions across data center users. arXiv preprint arXiv:2406.09645 (2024).
 
-[2] A. Kim et al. *Morph: Efficient File-Lifetime Redundancy Management for Cluster File Systems*. Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles. 2024.
+[3] Li, Ruihao, et al. "Hardware Lifecycle-Aware Power Planning in Commercial Hyperscale Datacenters (Operational Systems)." 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 26). 2026.
 
-[3] Z. Li et al. *Flash-oriented Coded Storage: Research Status and Future Directions*. ACM Transactions on Storage (2024).
+
+
 
 
 ### Location
