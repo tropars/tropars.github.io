@@ -108,7 +108,7 @@ Please find bellow some of the material I use during my lectures and labs.
     - [Session 3 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-3-exercises.pdf)
     - [Reliable broadcast]({{ site.url }}/downloads/lectures/DS/DS-4-bcast.pdf)
     - [Session 4 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises.pdf)
-    <!-- - [Session 4 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises-more.pdf) -->
+    - [Session 4 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-4-exercises-more.pdf)
     <!-- - [Consensus]({{ site.url }}/downloads/lectures/DS/DS-5-consensus.pdf) -->
     <!-- - [Session 5 -- Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises.pdf) -->
     <!-- - [Session 5 -- More Exercises]({{ site.url }}/downloads/lectures/DS/DS-5-exercises-more.pdf) -->
